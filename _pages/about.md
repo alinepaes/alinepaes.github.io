@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: alinepaes (at) ic.uff.br 
-<p> *It is about the journey* </p> 
+
 
 profile:
   align: right
