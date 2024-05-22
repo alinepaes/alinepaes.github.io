@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>alinepaes (at) ic.uff.br</a> *"It is about the journey"* 
+subtitle: alinepaes (at) ic.uff.br 
+**"It is about the journey"** 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>504 Institute of Computing Building </p>
-    <p>S/N Gen. Milton Tavares Souza </p>
-    <p> Niterói, RJ, Brazil</p>
+    <p>504 Institute of Computing  </p>
+    <p> Praia Vermelha Campus </p>
+    <p> Gragoatá, Niterói, RJ, Brazil</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
