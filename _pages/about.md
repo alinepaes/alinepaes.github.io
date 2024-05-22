@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>alinepaes (at) ic.uff.br</a> >
+subtitle: <a href='#'>alinepaes (at) ic.uff.br</a> 
 <p> *"It is about the journey"* </p>
 
 profile:
