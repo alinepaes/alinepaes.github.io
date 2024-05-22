@@ -3,14 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: alinepaes (at) ic.uff.br 
-**"It is about the journey"** 
+<p> *It is about the journey* </p> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>504 Institute of Computing  </p>
+    <p> 504 Institute of Computing  </p>
     <p> Praia Vermelha Campus </p>
     <p> Gragoatá, Niterói, RJ, Brazil</p>
 
