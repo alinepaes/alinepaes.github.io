@@ -10,17 +10,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> 504 Institute of Computing  </p>
-    <p> Praia Vermelha Campus </p>
-    <p> Gragoatá, Niterói, RJ, Brazil</p>
+  <she/her>
+    
 
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Associate Professor of Artificial Intelligence at the <a href="https://www.ic.uff.br/"> Institute of Computing </a> of <a href="https://www.uff.br/"> Universidade Federal Fluminense (UFF), located in the cosy city of <a href="https://g.co/kgs/4Gt8DdR"> Niterói </a>, RJ, Brazil. I am a permanent member of the Graduate Program in Computer Science at IC/UFF, where I lead the Machine Learning and Language Learning <a href="https://github.com/MeLLL-UFF">(MeLLL-UFF) </a>research group. I hold a DS.C and M.S. degrees in Systems Engineering and Computer Science from COPPE/UFRJ and a B.S. in Computer Science from IME/UERJ. During my D.Sc. studies, I was a visiting scholar at Imperial College London for a year. I have a productivity research grant level E from CNPq and a young scientist research grant from FAPERJ. In 2023, I was a visiting professor in the NLP group of the University of Sheffield for three months with a CAPES-PRINT scholarship. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a member of the Brazilian Computer Society (SBC) and its special commission in NLP <a href="https://sites.google.com/view/ce-pln/inicio"> (CE-PLN) </a> and the National Institute of AI (IAIA). I am also a member of the <a href ="https://brasileiraspln.com/"> Brazilian Women in NLP group (Brasileiras em PLN)</a>. Check out our first free and online <a href="https://brasileiraspln.com/livro-pln/"> book </a> about NLP in Portuguese. 
