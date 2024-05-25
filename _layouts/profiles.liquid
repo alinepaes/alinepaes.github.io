@@ -2,11 +2,10 @@
 layout: page
 ---
 <div class="post">
-  <article>
+  <article style="display:flex; flex-wrap: wrap;>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-        <hr>
-        <div class="profile">
+        <div class="profile" style="padding: 10px">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
             {% if profile.image_circular %}
