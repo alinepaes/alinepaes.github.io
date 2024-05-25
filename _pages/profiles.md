@@ -54,7 +54,7 @@ profiles_dsc:
       <p> Thais Luca (UFRJ) </p>
       <p> Relational ML </p>
 
-  profiles_msc:
+profiles_msc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - image: prof_pic.jpg
