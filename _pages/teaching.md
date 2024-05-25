@@ -9,14 +9,14 @@ nav_order: 6
 
 ** 2024/1 **  
 Programming with C (Computer Science), Tue/Thu, 11-13, 321, Lab 302  
-Programming with Python (Chemical Eng.), Tue/Thu, 09-11, 321, Lab 302  
+Programming with Python (Chemical Eng.), Tue/Thu, 09-11, 321, Lab 302   
 ---
-** 2023/2 **
-Language Models (Graduate in CS)
-Programming with Python (Chemical Eng.)  
+** 2023/2 **  
+Language Models (Graduate in CS)  
+Programming with Python (Chemical Eng.)    
 ---
 ** 2022/2 **  
-Artificial Intelligence (CS)  
+Artificial Intelligence (CS)   
 Relational Machine Learning (Graduate in CS)  
 ---
 ** 2022/1 **  
