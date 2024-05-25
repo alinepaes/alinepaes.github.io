@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-*** 2024/1 ***  
+** 2024/1 ** 
 Programming with C (Computer Science), Tue/Thu, 11-13, 321, Lab 302  
 Programming with Python (Chemical Eng.), Tue/Thu, 09-11, 321, Lab 302   
 
