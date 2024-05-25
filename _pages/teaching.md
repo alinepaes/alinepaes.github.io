@@ -39,7 +39,8 @@ Programming with Python (Undergraduate in sth)
 Artificial Intelligence (Graduate in CS)  
 Programming with C (CS)  
 ---
-** Before 2020: Programming with Python, Prograaming with C, Object-oriented Programming, Compilers, Artificial Intelligent, Representation Learning 
+** Before 2020: Programming with Python, Programming with C, Object-oriented Programming, Compilers, Artificial Intelligent, Representation Learning 
+---
 
 
 
