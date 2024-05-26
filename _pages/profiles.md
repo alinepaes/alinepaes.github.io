@@ -33,8 +33,7 @@ profiles_dsc:
     more_info: >
       <p> Arthur Scalercio </p>
       <p> Text Simplification </p>
-
-            
+          
   - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -105,13 +104,13 @@ profiles_msc:
       <p> Gabriel Coelho </p>
       <p> NLP, Handwritten Recognition </p>
       
- - image: female_student.jpg
+  - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Gabriela Gomes </p>
       <p> NLP, gender bias </p>
 
- - image: female_student.jpg
+  - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Camila Gusmão </p>
@@ -133,9 +132,9 @@ profiles_undergrad:
       <p> Gabriel Assis </p>
       <p> NLP, Financial Analysis, Generative </p>
 
-   - image: female_student.jpg
-     image_circular: false # crops the image to make it circular
-     more_info: >
+  - image: female_student.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
       <p> Viviane Romero </p>
       <p> NLP, Financial Analysis, Sentiment </p>
 
