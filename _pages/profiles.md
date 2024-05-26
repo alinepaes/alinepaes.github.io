@@ -6,31 +6,11 @@ description: Current MeLL Students (supervising or co-supervising), ordered by s
 nav: true
 nav_order: 7
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - image: female_student.png
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> Laura Alvarenga </p>
-      <p> NLP, Misogyny Detection </p>
-      
-  - image: female_student.png
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> Letícia Freire </p>
-      <p>XAI, Recommender Systems </p>
-
-  - image: prof_pic.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> Letícia Freire </p>
-      <p>D.Sc. Student, XAI, Recommendation Systems </p>
 
 profiles_dsc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - image: female_student.png
+  - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Laura Alvarenga </p>
