@@ -1,10 +1,10 @@
----
+  ---
 layout: page
 ---
 <div class="post">
   {% if page.profiles_dsc %}
     <article>
-      <hr class="hr-text gradient" data-content="D.Sc.">
+      <h2 class="category">D.Sc.</h2>
       <div style="display:flex; flex-wrap: wrap;">
         {% for profile in page.profiles_dsc %}
           <div class="profile" style="padding: 10px">
@@ -28,7 +28,7 @@ layout: page
   {% endif %}
   {% if page.profiles_msc %}
     <article>
-      <hr/>
+      <h2 class="category">M.Sc.</h2>
       <div style="display:flex; flex-wrap: wrap;">
         {% for profile in page.profiles_msc %}
           <div class="profile" style="padding: 10px">
@@ -52,7 +52,7 @@ layout: page
   {% endif %}
   {% if page.profiles_undergrad %}
     <article>
-      <hr/>
+      <h2 class="category">Undergraduate</h2>
       <div style="display:flex; flex-wrap: wrap;">
         {% for profile in page.profiles_undergrad %}
           <div class="profile" style="padding: 10px">
