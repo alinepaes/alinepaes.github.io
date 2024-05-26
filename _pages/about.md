@@ -27,6 +27,7 @@ My recent research has primarily focused on relational machine learning, machine
  - Text simplification
  - Generative AI for Financial Assets Analyses
  - NLP for Brazilian Indigenous Languages
+ - Algorithmic Reasoning with Relational ML 
  - Transfer Learning for Statistical Relational Models
  - Detection of lousy behavior like fake news, hate speech, gender bias, and persuasion for negative manipulation.
 
