@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: MeLLL Students
+description: Students that I advise or co-advise
 nav: true
 nav_order: 7
 
