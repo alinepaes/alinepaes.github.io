@@ -6,7 +6,7 @@ description: 03/2024 - 08/2027
             <p> Productivy grant </p>
 img: assets/img/p1.jpg
 importance: 1
-category: coordinating
+category: Coordinating
 related_publications: true
 ---
 
