@@ -6,7 +6,7 @@ description: 03/2023 - 02/2026
               <p> Young Scientist from Rio de Janeiro </p>
 img: /assets/img/p4.jpg
 importance: 3
-category: coordinating
+category: Coordinating
 ---
 
 Every project has a beautiful feature showcase page.
