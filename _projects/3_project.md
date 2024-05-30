@@ -5,7 +5,7 @@ description: 02/2024 - 02/2026
             < financed by CNPq / IAIA </p>
 img: assets/img/p3.jpg
 importance: 3
-category: coordinating
+category: Coordinating
 ---
 
 Every project has a beautiful feature showcase page.
