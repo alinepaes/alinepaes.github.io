@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: "Knowledge-Enriched Representation Learning for Natural Language: Algorithms and Applications"
+description: 03/2024 - 08/2027 <p> financial support from CNPq </p>
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: coordinating
 related_publications: true
 ---
 
