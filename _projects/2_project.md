@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Knowledge-Enhanced Natural Language Machine Learning for Positive Social Impact
+description: 03/2024-03/2025 
+            <p> financed by FAPERJ </p> 
+            <p> Young Women Researchers in Rio de Janeiro </p>
+img: assets/img/p2.jpg
 importance: 2
-category: work
+category: coordinating
 giscus_comments: true
 ---
 
