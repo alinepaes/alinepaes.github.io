@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ongoing projects
 nav: true
 nav_order: 3
-display_categories: [Coordinating, participating]
+display_categories: [Coordinating, Participating]
 horizontal: false
 ---
 
