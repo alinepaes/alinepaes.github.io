@@ -6,7 +6,7 @@ description: 03/2024-03/2025
             <p> Young Women Researchers in Rio de Janeiro </p>
 img: assets/img/p2.jpg
 importance: 2
-category: coordinating
+category: Coordinating
 giscus_comments: true
 ---
 
