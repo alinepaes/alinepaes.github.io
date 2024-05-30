@@ -4,7 +4,7 @@ title: Machine Learning with Limited Resources for Positive Social Impact
 description: 03/2023 - 02/2026
               <p> financed by FAPERJ </p>
               <p> Young Scientist from Rio de Janeiro </p>
-img:/assets/img/p4.jpg
+img: /assets/img/p4.jpg
 importance: 3
 category: coordinating
 ---
