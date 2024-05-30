@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Knowledge-Enriched Representation Learning for Natural Language: Algorithms and Applications"
-description: 03/2024 - 08/2027 <p> financial support from CNPq </p>
+description: 03/2024 - 08/2027 
+            <p> financial support from CNPq </p>
+            <p> Productivy grant </p>
 img: assets/img/p1.jpg
 importance: 1
 category: coordinating
