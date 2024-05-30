@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: AIDA - Intelligent Analysis of Financial Asset Documents
+description: 02/2024 - 02/2026
+            < financed by CNPq / IAIA </p>
+img: assets/img/p3.jpg
 importance: 3
-category: work
+category: coordinating
 ---
 
 Every project has a beautiful feature showcase page.
@@ -19,6 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
+    redirect: https://unsplash.com
     ---
 
 <div class="row">
