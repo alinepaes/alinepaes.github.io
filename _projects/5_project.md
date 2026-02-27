@@ -8,7 +8,7 @@ importance: 5
 category: Coordinating
 ---
 
-**BASE-ESG** is a research project dedicated to the construction of **structured ESG (Environmental, Social, and Governance) knowledge bases** derived from public corporate disclosures, with the goal of enabling the responsible training and evaluation of generative AI systems in the sustainability domain.
+Construction of ESG Knowledge Bases for the Responsible Training of Generative AI Systems from Public Disclosures (**BASE-ESG**) is a research project dedicated to the construction of **structured ESG (Environmental, Social, and Governance) knowledge bases** derived from public corporate disclosures, with the goal of enabling the responsible training and evaluation of generative AI systems in the sustainability domain.
 
 As ESG reporting becomes increasingly central to corporate accountability and investment decisions, the volume and complexity of relevant textual disclosures — including sustainability reports, regulatory filings, and stakeholder communications — has grown substantially. This project addresses the need for high-quality, structured knowledge resources that can ground generative AI models in accurate, verifiable ESG information, reducing hallucination and improving reliability in this high-stakes domain.
 
