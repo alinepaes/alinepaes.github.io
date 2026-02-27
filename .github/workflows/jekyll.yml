@@ -19,17 +19,22 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2
-          bundler-cache: true
 
-      - name: Unfreeze bundler
-        run: bundle config set frozen false
+      - name: Install Bundler 4.0.7
+        run: gem install bundler -v 4.0.7
 
-      - run: bundle install
-      - run: bundle exec jekyll build
+      - name: Bundle install (not frozen)
+        run: |
+          bundle config set frozen false
+          bundle install
+
+      - name: Build site
+        run: bundle exec jekyll build
 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
+
 
   deploy:
     needs: build
