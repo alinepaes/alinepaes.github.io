@@ -1,11 +1,13 @@
 ---
 layout: page
-title: AIDA: AI for Financial Document Analysis
+title: "AIDA: AI for Financial Document Analysis"
 description: >
 img: /assets/img/p3.png
 importance: 3
 category: Coordinating
+related_publications: false
 ---
+
 
 **AIDA** (Intelligent Analysis of Financial Asset Documents) is a research project focused on developing **NLP and machine learning methods for the automatic analysis of financial documents**. The project targets the extraction, interpretation, and summarization of information from complex financial texts such as earnings reports, regulatory filings, prospectuses, and market disclosures.
 
