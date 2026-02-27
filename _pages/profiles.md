@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: Current Students (supervising or co-supervising), ordered by starting date. 
+description: Current Students (supervising or co-supervising), ordered by starting date. For previous students, check my Lattes. 
 nav: true
 nav_order: 4
 
