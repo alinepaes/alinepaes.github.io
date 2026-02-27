@@ -4,7 +4,7 @@ title: Machine Learning with Limited Resources for Positive Social Impact
 description: >
   
 img: /assets/img/p4.png
-importance: 3
+importance: 4
 category: Coordinating
 ---
 
