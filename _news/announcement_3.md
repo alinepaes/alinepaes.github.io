@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Papers accepted to LREC 2026
 date: 2026-02-12 07:59:00 -0400
 inline: true
 related_posts: false
