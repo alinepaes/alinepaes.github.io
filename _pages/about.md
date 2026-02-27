@@ -32,16 +32,37 @@ My recent research has primarily focused on machine learning for natural languag
  - Detection of lousy behavior like fake news, hate speech, gender bias, and persuasion for negative manipulation.
 
 {% if site.announcements.enabled %}
----
 
-## Announcements
+<hr>
 
-{% assign news = site.news | sort: "date" | reverse %}
-{% for item in news limit: site.announcements.limit %}
-- **{{ item.date | date: "%b %Y" }}** — {{ item.title }}
-{% endfor %}
+<h2>Announcements</h2>
 
-[See all announcements →](/news/)
+<div class="row row-cols-1 row-cols-md-1 g-4">
+  {% assign news = site.news | sort: "date" | reverse %}
+  {% for item in news limit: site.announcements.limit %}
+    <div class="col">
+      <div class="card hoverable">
+        <div class="card-body">
+          <h5 class="card-title">{{ item.title }}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">
+            {{ item.date | date: "%B %d, %Y" }}
+          </h6>
+          <p class="card-text">
+            {{ item.content | strip_html | truncatewords: 30 }}
+          </p>
+          <a href="{{ item.url }}" class="card-link">Read more →</a>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<div style="margin-top: 1rem;">
+  <a href="/news/" class="btn btn-outline-primary btn-sm">
+    View all announcements
+  </a>
+</div>
+
 {% endif %}
 
 
