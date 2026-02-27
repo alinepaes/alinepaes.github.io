@@ -7,8 +7,6 @@ nav: true
 nav_order: 4
 
 
-For more details, check <a href="https://melll.github.io/"> MeLLL webpage</a>. For previous students, check <a href="http://lattes.cnpq.br/0506389215528790"> Lattes CV</a>. 
-
 profiles_dsc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
