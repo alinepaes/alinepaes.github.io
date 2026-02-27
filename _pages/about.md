@@ -31,5 +31,18 @@ My recent research has primarily focused on machine learning for natural languag
  - Transfer Learning for Statistical Relational Models
  - Detection of lousy behavior like fake news, hate speech, gender bias, and persuasion for negative manipulation.
 
+{% if site.announcements.enabled %}
+---
+
+## Announcements
+
+{% assign news = site.news | sort: "date" | reverse %}
+{% for item in news limit: site.announcements.limit %}
+- **{{ item.date | date: "%b %Y" }}** — {{ item.title }}
+{% endfor %}
+
+[See all announcements →](/news/)
+{% endif %}
+
 
 
