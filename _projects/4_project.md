@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning with Limited Resources for Positive Social Impact
+title: LENS — Low-Resource ML for Social Impact
 description: >
   
 img: /assets/img/p4.png
@@ -8,7 +8,7 @@ importance: 4
 category: Coordinating
 ---
 
-This project investigates **machine learning methods designed to operate effectively under limited resource constraints**, with a direct focus on generating positive social impact. Resource limitations are addressed across multiple dimensions — including scarce labeled data, low-compute environments, and underrepresented languages — to enable the deployment of intelligent systems in contexts that are typically overlooked by mainstream AI research.
+In "Machine Learning with Limited Resources for Positive Social Impact" we investigate **machine learning methods designed to operate effectively under limited resource constraints**, with a direct focus on generating positive social impact. Resource limitations are addressed across multiple dimensions — including scarce labeled data, low-compute environments, and underrepresented languages — to enable the deployment of intelligent systems in contexts that are typically overlooked by mainstream AI research.
 
 The project draws on techniques such as transfer learning, few-shot and zero-shot learning, data augmentation, and semi-supervised learning, applying them to socially relevant problems including hate speech detection, health misinformation, accessibility, and vulnerable population support — with a strong emphasis on Brazilian Portuguese and the regional realities of Rio de Janeiro.
 
