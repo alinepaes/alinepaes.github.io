@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LENS : Low-Resource ML for Social Impact
+title: LENS: Low-Resource ML for Social Impact
 description: >
   
 img: /assets/img/p4.png
