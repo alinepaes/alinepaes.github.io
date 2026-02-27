@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: Current Students (supervising or co-supervising), ordered by starting date. For more details, check [MeLLL website](). For previous students, check **[Lattes](http://lattes.cnpq.br/0506389215528790)**
+description: Current Students (supervising or co-supervising), ordered by starting date. For more details, check <a href="https://melll.github.io"> Lattes </a>.. For previous students, check <a href="http://lattes.cnpq.br/http://lattes.cnpq.br/0506389215528790"> Lattes </a>. 
 nav: true
 nav_order: 7
 
@@ -45,6 +45,12 @@ profiles_dsc:
     more_info: >
       <p> Alessandra Gomes </p>
       <p> Persuasion Detection </p>
+
+  - image: female_student.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> Camila Lopes </p>
+      <p> Federated Learning for Astronomy data </p>
   
   - image: female_student.jpg
     image_circular: false # crops the image to make it circular
