@@ -2,7 +2,7 @@
 layout: page
 title: "Knowledge-Enriched Representation Learning for Natural Language: Algorithms and Applications"
 description: >
-img: assets/img/p1.png
+img: assets/img/p1.jpg
 importance: 1
 category: Coordinating
 related_publications: false
