@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knowledge-Enhanced Natural Language Machine Learning for Positive Social Impact
+title: KENSI: Knowledge-Enhanced NLP for Social Impact
 description: >
 img: /assets/img/p2.png
 importance: 2
@@ -8,7 +8,7 @@ category: Coordinating
 giscus_comments: true
 ---
 
-This project investigates the development of **knowledge-enhanced machine learning methods for natural language processing** with a focus on generating positive social impact. By combining structured knowledge sources with modern NLP techniques, the research addresses real-world challenges in areas such as misinformation detection, hate speech identification, health communication, and social inequality.
+Knowledge-Enhanced Natural Language Machine Learning for Positive Social Impact investigates the development of **knowledge-enhanced machine learning methods for natural language processing** with a focus on generating positive social impact. By combining structured knowledge sources with modern NLP techniques, the research addresses real-world challenges in areas such as misinformation detection, hate speech identification, health communication, and social inequality.
 
 A central motivation of this project is to foster **inclusive and responsible AI research**, with particular attention to underrepresented languages, communities, and social contexts — including Brazilian Portuguese and the sociotechnical realities of Rio de Janeiro and beyond.
 
