@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KENSI : Knowledge-Enhanced NLP for Social Impact
+title: KENSI: Knowledge-Enhanced NLP for Social Impact
 description: >
 img: /assets/img/p2.png
 importance: 2
