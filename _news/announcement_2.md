@@ -1,5 +1,6 @@
 ---
 layout: post
+title: PC chair of STIL 2026
 date: 2026-01-10 07:59:00-0400
 inline: true
 related_posts: false
