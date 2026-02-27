@@ -2,7 +2,7 @@
 layout: page
 title: Knowledge-Enhanced Natural Language Machine Learning for Positive Social Impact
 description: >
-img: assets/img/p2.png
+img: /assets/img/p2.png
 importance: 2
 category: Coordinating
 giscus_comments: true
