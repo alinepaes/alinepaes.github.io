@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Graduate and undergraduate courses. Only a list, all my classes are private in Google Classroom. 
 nav: true
-nav_order: 6
+nav_order: 7
 
 ---
 
