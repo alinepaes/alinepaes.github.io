@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BASE-ESG : ESG Knowledge Bases for Responsible Generative AI
+title: BASE-ESG: ESG Knowledge Bases for Responsible Generative AI
 description: >
  
 img: /assets/img/p5.png
