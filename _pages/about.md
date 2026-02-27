@@ -35,7 +35,7 @@ My recent research has primarily focused on machine learning for natural languag
 
 <hr>
 
-<h2>Announcements</h2>
+<h2>News</h2>
 
 <div class="row row-cols-1 row-cols-md-1 g-4">
   {% assign news = site.news | sort: "date" | reverse %}
