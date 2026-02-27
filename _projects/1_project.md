@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Knowledge-Enriched Representation Learning for Natural Language: Algorithms and Applications"
+title: "KALM: Knowledge-Aware Language Models"
 description: >
 img: /assets/img/p1.jpg
 importance: 1
@@ -8,7 +8,7 @@ category: Coordinating
 related_publications: false
 ---
 
-This project investigates **knowledge-enriched representation learning** for natural language processing, focusing on the development of algorithms that incorporate structured and unstructured knowledge sources to improve text understanding and generation.
+The project "Knowledge-Enriched Representation Learning for Natural Language: Algorithms and Applications" investigates **knowledge-enriched representation learning** for natural language processing, focusing on developing algorithms that incorporate structured and unstructured knowledge sources to improve text understanding and generation.
 
 The research spans both foundational and applied dimensions, targeting tasks such as text simplification, ESG, knowledge graph integrated with contrastive reasoning, and others. A key goal is to bridge the gap between external knowledge (logic foundations, knowledge graphs) and neural representations, enabling models that are more interpretable, robust, and data-efficient.
 
