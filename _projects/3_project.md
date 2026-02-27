@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AIDA : AI for Financial Document Analysis
+title: AIDA: AI for Financial Document Analysis
 description: >
 img: /assets/img/p3.png
 importance: 3
