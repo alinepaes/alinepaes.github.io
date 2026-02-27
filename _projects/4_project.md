@@ -1,82 +1,31 @@
 ---
 layout: page
 title: Machine Learning with Limited Resources for Positive Social Impact
-description: 03/2023 - 02/2026
-              <p> financed by FAPERJ </p>
-              <p> Young Scientist from Rio de Janeiro </p>
-img: /assets/img/p4.jpg
+description: >
+  
+img: /assets/img/p4.png
 importance: 3
 category: Coordinating
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project investigates **machine learning methods designed to operate effectively under limited resource constraints**, with a direct focus on generating positive social impact. Resource limitations are addressed across multiple dimensions — including scarce labeled data, low-compute environments, and underrepresented languages — to enable the deployment of intelligent systems in contexts that are typically overlooked by mainstream AI research.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The project draws on techniques such as transfer learning, few-shot and zero-shot learning, data augmentation, and semi-supervised learning, applying them to socially relevant problems including hate speech detection, health misinformation, accessibility, and vulnerable population support — with a strong emphasis on Brazilian Portuguese and the regional realities of Rio de Janeiro.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/p4.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+## Objectives
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- Design and evaluate ML algorithms that achieve strong performance with minimal labeled data
+- Develop resources and benchmarks for low-resource NLP in Brazilian Portuguese
+- Apply limited-resource methods to high-impact tasks in health, safety, and social inclusion
+- Contribute open-source tools and datasets to the broader research community
 
-{% endraw %}
+## Funding & Support
+
+This project is financed by **FAPERJ** (Carlos Chagas Filho Foundation for Research Support of the State of Rio de Janeiro) under the **Young Scientist from Rio de Janeiro** program, covering the period from March 2023 to October 2026.

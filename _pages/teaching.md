@@ -5,11 +5,30 @@ title: Teaching
 description: Graduate and undergraduate courses. Only a list, all my classes are private in Google Classroom. 
 nav: true
 nav_order: 6
+
+---
+
+** 2025/2 **  
+Programming with C (Computer Science),  
+Language Models (Graduate in CS)  
+
+---
+
+** 2025/1 **  
+Programming with C (Computer Science),  
+Artificial Intelligence (CS) 
+
+---
+
+** 2024/2 **  
+Programming with C (Computer Science),  
+Language Models (Graduate in CS) 
+
 ---
 
 ** 2024/1 **  
-Programming with C (Computer Science), Tue/Thu, 11-13, 321, Lab 302  
-Programming with Python (Chemical Eng.), Tue/Thu, 09-11, 321, Lab 302   
+Programming with C (CS)
+Programming with Python (Chemical Eng.)   
 
 --- 
 ** 2023/2 **  
