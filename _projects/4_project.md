@@ -1,11 +1,11 @@
 ---
 layout: page
-title: LENS: Low-Resource ML for Social Impact
-description: >
-  
+title: "LENS: Low-Resource ML for Social Impact"
+description: > 
 img: /assets/img/p4.png
 importance: 4
 category: Coordinating
+related_publications: false
 ---
 
 In "Machine Learning with Limited Resources for Positive Social Impact" we investigate **machine learning methods designed to operate effectively under limited resource constraints**, with a direct focus on generating positive social impact. Resource limitations are addressed across multiple dimensions — including scarce labeled data, low-compute environments, and underrepresented languages — to enable the deployment of intelligent systems in contexts that are typically overlooked by mainstream AI research.
