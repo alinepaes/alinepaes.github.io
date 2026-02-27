@@ -4,7 +4,7 @@ title: Construction of ESG Knowledge Bases for the Responsible Training of Gener
 description: >
  
 img: /assets/img/p5.png
-importance: 3
+importance: 5
 category: Coordinating
 ---
 
