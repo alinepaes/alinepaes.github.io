@@ -1,11 +1,11 @@
 ---
 layout: page
-title: BASE-ESG: ESG Knowledge Bases for Responsible Generative AI
+title: "BASE-ESG: ESG Knowledge Bases for Responsible Generative AI"
 description: >
- 
 img: /assets/img/p5.png
 importance: 5
 category: Coordinating
+related_publications: false
 ---
 
 Construction of ESG Knowledge Bases for the Responsible Training of Generative AI Systems from Public Disclosures (**BASE-ESG**) is a research project dedicated to the construction of **structured ESG (Environmental, Social, and Governance) knowledge bases** derived from public corporate disclosures, with the goal of enabling the responsible training and evaluation of generative AI systems in the sustainability domain.
