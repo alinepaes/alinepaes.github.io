@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Construction of ESG Knowledge Bases for the Responsible Training of Generative AI Systems from Public Disclosures (BASE-ESG)
+title: BASE-ESG — ESG Knowledge Bases for Responsible Generative AI
 description: >
  
 img: /assets/img/p5.png
