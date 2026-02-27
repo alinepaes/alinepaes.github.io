@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: Current Students (supervising or co-supervising), ordered by starting date. For more details, check <a href="https://melll.github.io"> MeLLL webpage </a>. For previous students, check <a href="http://lattes.cnpq.br/http://lattes.cnpq.br/0506389215528790"> Lattes </a>. 
+description: Current Students (supervising or co-supervising), ordered by starting date. For more details, check <a href="https://melll.github.io/"> MeLLL webpage </a>. For previous students, check <a href="http://lattes.cnpq.br/0506389215528790"> Lattes CV </a>. 
 nav: true
 nav_order: 4
 
