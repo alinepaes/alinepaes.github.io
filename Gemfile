@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
 gem "webrick"
+gem "css_parser"
 
 group :jekyll_plugins do
   gem "jekyll-archives"
