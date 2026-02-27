@@ -17,20 +17,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor of Artificial Intelligence at the <a href="https://www.ic.uff.br/"> Institute of Computing </a> of the <a href="https://www.uff.br/"> Universidade Federal Fluminense (UFF) </a>, located in the charming city of <a href="https://g.co/kgs/4Gt8DdR"> Niterói </a>, RJ, Brazil. I am affiliated with the Graduate Program in Computer Science at IC/UFF (CAPES 7, max level), where I lead the Machine Learning and Language Learning <a href="https://github.com/MeLLL-UFF">(MeLLL-UFF) </a>research group.  I hold a productivity research grant (level E) from CNPq and a Young Scientist Research Grant from FAPERJ. I am a member of the following CNPq National Institutes of Science and Technology (INCT): National Institute of AI (IAIA), National Institute of Science and Technology in Responsible Artificial Intelligence for Computational Linguistics, Information Processing, and Information Dissemination (TILD-IAR), and National Institute of AI for Social Good (IAPROBEM). I am also a member of the <a href ="https://brasileiraspln.com/"> Brazilian Women in NLP group (Brasileiras em PLN)</a>. Check out our first free and online <a href="https://brasileiraspln.com/livro-pln/"> book </a> about NLP in Portuguese. I am also associate editor of Springer Machine Learning journal, Cambridge NLP, SBC JBCS, and IBERAMIA Inteligência Artificial.  
+I am an Associate Professor of Artificial Intelligence at the <a href="https://www.ic.uff.br/"> Institute of Computing </a> of the <a href="https://www.uff.br/"> Universidade Federal Fluminense (UFF) </a>, located in the charming city of <a href="https://g.co/kgs/4Gt8DdR"> Niterói </a>, RJ, Brazil. I am a core faculty member of the Graduate Program in Computer Science at IC/UFF—rated CAPES 7, the highest level of excellence in the country— where I lead the Machine Learning and Language Learning <a href="https://github.com/MeLLL-UFF">(MeLLL-UFF) </a>research group. I serve as an Associate Editor for several prestigious journals, including Springer Machine Learning, Cambridge NLP, SBC JBCS, and IBERAMIA Inteligência Artificial.
 
-My recent research has primarily focused on machine learning for natural language processing, relational machine learning, and AI for positive social impact. Currently, I am interested in:
+My work is supported by a CNPq Research Productivity Grant and a FAPERJ Young Scientist Grant. I am also a member of three CNPq National Institutes of Science and Technology (INCTs): the National Institute of AI (IAIA), TILD-IAR (Responsible AI for Computational Linguistics), and IAPROBEM (AI for Social Good). Additionally, I am a member of the <a href ="https://brasileiraspln.com/"> Brasileiras em PLN (Brazilian Women in NLP)</a> group.
+
+My recent research focuses on Machine Learning for Natural Language Processing (NLP), Relational ML, and AI for Social Impact. My current research interests include:
  - Multilingual Language Models and Generative AI 
- - Knowledge-enhanced ML for NLP
- - Low-resource ML for NLP
+ - Knowledge-enhanced and Low-resource ML for NLP
  - Figurative Language
  - Text simplification
  - Generative AI for Financial Assets Analyses
  - Reasoning with NLP and Relational ML 
  - Transfer Learning for Statistical Relational Models
- - Automatic detection of lousy behavior like fake news, hate speech, gender bias, and persuasion for negative manipulation.
+ - Detecting fake news, hate speech, gender bias, and online manipulation.
 
-If you want to collaborate on those themes, feel free to contact me
+I am always open to new collaborations—please feel free to contact me if you are interested in these topics.
 
 {% if site.announcements.enabled %}
 
