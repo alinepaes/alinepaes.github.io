@@ -9,8 +9,8 @@ related_posts: false
 
 We are excited to share our paper **“BERTweet.BR: a pre-trained language model for tweets in Portuguese”**, now published in *Neural Computing and Applications*.
 
-📄 Paper: https://link.springer.com/article/10.1007/s00521-024-10711-3  
-🤗 Model on Hugging Face: https://huggingface.co/melll-uff/bertweetbr  
+Check it out the 📄 <a href="https://link.springer.com/article/10.1007/s00521-024-10711-3"> paper </a> and the  
+🤗 <a href="https://huggingface.co/melll-uff/bertweetbr"> Model on Hugging Face </a>.
 
 While most advances in neural language models focus on English, Portuguese — despite being the sixth most spoken language in the world — still lacks domain-specific large-scale resources. This gap is even more evident for social media, where Brazilian users are among the most active globally.
 
