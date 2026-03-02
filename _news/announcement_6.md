@@ -8,7 +8,7 @@ related_posts: false
 We are going to <a href="https://2025.aclweb.org/program/main_papers/">ACL 2025</a> :sparkles: :smile:!  
 
 
-Our <a href="https://aclanthology.org/2025.acl-long.1193/"long paper "Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights" </a> has been accepted to the main conference of ACL 2025, and we are very excited to share this work with the community. 
+Our <a href="https://aclanthology.org/2025.acl-long.1193/">long paper "Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights" </a> has been accepted to the main conference of ACL 2025, and we are very excited to share this work with the community. 
 This publication represents an important milestone in our ongoing research efforts and contributes to international discussions in Natural Language Processing in Portuguese.  
 
 In this study, we evaluated 26 advanced AI language models to see how well they simplify sentences in Portuguese. 
