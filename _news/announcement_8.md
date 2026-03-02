@@ -19,6 +19,7 @@ In this work, we provide a comprehensive evaluation of Brazilian Portuguese LLMs
 
 We evaluate six Brazilian models and compare them with **GPT-4o**, combining automatic metrics, an LLM-as-a-judge framework, and human evaluation.
 
+
 🔎 **Key findings:**
 - GPT-4o achieves the strongest overall generative performance in Portuguese.
 - The Sabiá-3 family follows closely behind.
