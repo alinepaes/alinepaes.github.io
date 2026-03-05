@@ -4,7 +4,7 @@ title: "KENSI: Knowledge-Enhanced NLP for Social Impact"
 description: >
 img: /assets/img/p2.png
 importance: 2
-category: Coordinating
+category: Current
 related_publications: false
 ---
 
