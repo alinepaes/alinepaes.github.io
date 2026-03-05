@@ -172,7 +172,7 @@ profiles_undergrad:
 
 ---
 
-## Alumni (for undergrad, please check my Lattes. They are too many...)
+alumni:
 
 ### D.Sc.
 
