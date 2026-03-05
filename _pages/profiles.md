@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: Current Students (supervising or co-supervising), ordered by starting date. For previous students, check my Lattes. 
+description: Students (supervising or co-supervising), ordered by starting date. 
 nav: true
 nav_order: 4
 
@@ -169,5 +169,71 @@ profiles_undergrad:
     more_info: >
       <p> Guilherme Rangel </p>
       <p> Diplomatic Q&A </p>
+
+## Alumni (for undergrad, please check my Lattes. They are too many...)
+
+### D.Sc.
+
+- Sidney Araújo Melo — Graph Representation Learning for Game Provenance — 2024
+- Claudio Vasconcelos Ribeiro — Vessel Trajectory Anomaly Detection — 2024
+- Paulo Roberto Mann Marques Junior — Depression Detection in Social Media — 2023
+- Jéssica Soares dos Santos — Dataset Ranking for Transfer Learning in Sentiment Analysis — 2023
+- David Batista Carvalho — Social Behavior Modeling in Computational Story Generation — 2017
+
+<details>
+<summary>Click to expand M.Sc. alumni</summary>
+
+**2025**  
+Gabriel Henrique Coelho Silva — Handwritten Text Recognition for Portuguese  
+João Vítor Oliveira Ferreira — Metamorphic Testing for Fake News Detection in LLMs  
+Osniel Lopes Teixeira — Graph Reinforcement Learning for Combinatorial Optimization  
+Ronald Albert de Araújo Júnior — Spectral Graph Neural Networks for Algorithmic Reasoning  
+
+**2024**  
+Camila Eleutério Gusmão — Generalization of Fake News Classifiers in Portuguese  
+João Victor Passeri Medeiros Amorim — Football Match Prediction with Graph Neural Networks  
+
+**2023**  
+Felipe dos Santos Ribeiro — Fact Checking and Misinformation in Brazilian Portuguese  
+Ricardo de Souza Moura — Efficient BERTweet Models for Twitter Sentiment Analysis  
+Elbe Alves Miranda — Natural Language Question Answering over Knowledge Graphs  
+Fernando Pereira Carneiro — Portuguese Language Model for Tweets  
+Annie Vianna Amorim — Topic Modeling Evaluation for Short Texts  
+Luiza Cunha de Menezes — Data Augmentation for Readability Assessment  
+
+**2022**  
+Sidney Loyola de Sá — Predicting Streaming Video Popularity with Machine Learning  
+
+**2021**  
+Patrick Blackman Sphaier — User Intent Classification in Noisy Text  
+Marcelo Andrade Rodrigues D'Almeida — Reinforcement Learning for Traffic Signal Control  
+Vítor Nascimento Lourenço — Knowledge Graph Representation Learning  
+Arthur Mariano Rocha de Azevedo Scalercio — Unsupervised Text Style Transfer  
+Thais Luca Marques de Almeida — Transfer Learning for Relational Dependency Networks  
+Letícia Freire Figueiredo — Genetic Algorithms for Relational Dependency Networks  
+Sérgio de Melo Barreto Júnior — Sentiment Analysis in Tweets  
+Eliseu Paz e Silva de Guimarães — Data Selection for Transfer Learning in Sentiment Analysis  
+
+**2019**  
+Daniel Pinheiro da Silva Junior — Parameter Recommendation in Scientific Workflows  
+Paulo Roberto Mann Marques Junior — Depression Detection in Social Media  
+Ícaro Goulart Faria Motta França — Reinforcement Learning for Game Playing  
+Sidney Araújo Melo — Graph Representation Learning for Game Provenance  
+Rodrigo Azevedo Santos — Transfer Learning for Relational Models  
+Kid Yonatan Valeriano Valdez — Unsupervised Analysis of Political Speeches  
+Ashey John Masi Noblega — Reinforcement Learning for Game Balancing  
+
+**2018**  
+Felipe Borda Carregosa — Differentiable Neural Virtual Machines  
+Victor Augusto Lopes Guimarães — Probabilistic Theory Revision  
+Breno William Santos Rezende de Carvalho — Semi-structured Linguistic Data for ML  
+André Luís da Costa Nascimento — Reinforcement Learning for Cloud Workflow Scheduling  
+Hugo Arraes Henley — Predicting University Dropout with Relational ML  
+
+**2014**  
+Rainier Augusto Ferreira Sales — Affective NPCs in Simulation Games  
+Raphael Melo Thiago — Learning Multiple Concepts in Description Logics  
+
+</details>
 
 ---
