@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-12-24 08:30:00 -0400
+title: BERTweet.BR — A Pre-trained Language Model for Portuguese Tweets
 inline: true
 related_posts: false
 ---
