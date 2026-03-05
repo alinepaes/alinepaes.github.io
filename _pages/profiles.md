@@ -170,11 +170,11 @@ profiles_undergrad:
       <p> Guilherme Rangel </p>
       <p> Diplomatic Q&A </p>
 
----
+
 
 alumni:
 
-### D.Sc.
+alumni_dsc:
 
 - Sidney Araújo Melo — Graph Representation Learning for Game Provenance — 2024
 - Claudio Vasconcelos Ribeiro — Vessel Trajectory Anomaly Detection — 2024
@@ -182,59 +182,52 @@ alumni:
 - Jéssica Soares dos Santos — Dataset Ranking for Transfer Learning in Sentiment Analysis — 2023
 - David Batista Carvalho — Social Behavior Modeling in Computational Story Generation — 2017
 
-<details>
-<summary>Click to expand M.Sc. alumni</summary>
+alumni_msc:
 
-**2025**  
-Gabriel Henrique Coelho Silva — Handwritten Text Recognition for Portuguese  
-João Vítor Oliveira Ferreira — Metamorphic Testing for Fake News Detection in LLMs  
-Osniel Lopes Teixeira — Graph Reinforcement Learning for Combinatorial Optimization  
-Ronald Albert de Araújo Júnior — Spectral Graph Neural Networks for Algorithmic Reasoning  
+- Gabriel Henrique Coelho Silva — Handwritten Text Recognition for Portuguese - 2025
+- João Vítor Oliveira Ferreira — Metamorphic Testing for Fake News Detection in LLMs  - 2025
+- Osniel Lopes Teixeira — Graph Reinforcement Learning for Combinatorial Optimization  - 2025
+- Ronald Albert de Araújo Júnior — Spectral Graph Neural Networks for Algorithmic Reasoning - 2025 
 
-**2024**  
-Camila Eleutério Gusmão — Generalization of Fake News Classifiers in Portuguese  
-João Victor Passeri Medeiros Amorim — Football Match Prediction with Graph Neural Networks  
+- Camila Eleutério Gusmão — Generalization of Fake News Classifiers in Portuguese   - 2024
+- João Victor Passeri Medeiros Amorim — Football Match Prediction with Graph Neural Networks  - 2024
 
-**2023**  
-Felipe dos Santos Ribeiro — Fact Checking and Misinformation in Brazilian Portuguese  
-Ricardo de Souza Moura — Efficient BERTweet Models for Twitter Sentiment Analysis  
-Elbe Alves Miranda — Natural Language Question Answering over Knowledge Graphs  
-Fernando Pereira Carneiro — Portuguese Language Model for Tweets  
-Annie Vianna Amorim — Topic Modeling Evaluation for Short Texts  
-Luiza Cunha de Menezes — Data Augmentation for Readability Assessment  
+- Felipe dos Santos Ribeiro — Fact Checking and Misinformation in Brazilian Portuguese - 2023
+- Ricardo de Souza Moura — Efficient BERTweet Models for Twitter Sentiment Analysis   - 2023
+- Elbe Alves Miranda — Natural Language Question Answering over Knowledge Graphs - 2023
+- Fernando Pereira Carneiro — Portuguese Language Model for Tweets   - 2023
+- Annie Vianna Amorim — Topic Modeling Evaluation for Short Texts   - 2023
+- Luiza Cunha de Menezes — Data Augmentation for Readability Assessment   - 2023
 
-**2022**  
-Sidney Loyola de Sá — Predicting Streaming Video Popularity with Machine Learning  
+- Sidney Loyola de Sá — Predicting Streaming Video Popularity with Machine Learning - 2022
 
-**2021**  
-Patrick Blackman Sphaier — User Intent Classification in Noisy Text  
-Marcelo Andrade Rodrigues D'Almeida — Reinforcement Learning for Traffic Signal Control  
-Vítor Nascimento Lourenço — Knowledge Graph Representation Learning  
-Arthur Mariano Rocha de Azevedo Scalercio — Unsupervised Text Style Transfer  
-Thais Luca Marques de Almeida — Transfer Learning for Relational Dependency Networks  
-Letícia Freire Figueiredo — Genetic Algorithms for Relational Dependency Networks  
-Sérgio de Melo Barreto Júnior — Sentiment Analysis in Tweets  
-Eliseu Paz e Silva de Guimarães — Data Selection for Transfer Learning in Sentiment Analysis  
+- Patrick Blackman Sphaier — User Intent Classification in Noisy Text - 2021
+- Marcelo Andrade Rodrigues D'Almeida — Reinforcement Learning for Traffic Signal Control - 2021  
+- Vítor Nascimento Lourenço — Knowledge Graph Representation Learning - 2021  
+- Arthur Mariano Rocha de Azevedo Scalercio — Unsupervised Text Style Transfer - 2021  
+- Thais Luca Marques de Almeida — Transfer Learning for Relational Dependency Networks - 2021  
+- Letícia Freire Figueiredo — Genetic Algorithms for Relational Dependency Networks - 2021  
+- Sérgio de Melo Barreto Júnior — Sentiment Analysis in Tweets - 2021  
+- Eliseu Paz e Silva de Guimarães — Data Selection for Transfer Learning in Sentiment Analysis - 2021  
 
-**2019**  
-Daniel Pinheiro da Silva Junior — Parameter Recommendation in Scientific Workflows  
-Paulo Roberto Mann Marques Junior — Depression Detection in Social Media  
-Ícaro Goulart Faria Motta França — Reinforcement Learning for Game Playing  
-Sidney Araújo Melo — Graph Representation Learning for Game Provenance  
-Rodrigo Azevedo Santos — Transfer Learning for Relational Models  
-Kid Yonatan Valeriano Valdez — Unsupervised Analysis of Political Speeches  
-Ashey John Masi Noblega — Reinforcement Learning for Game Balancing  
+- Daniel Pinheiro da Silva Junior — Parameter Recommendation in Scientific Workflows - 2019
+- Paulo Roberto Mann Marques Junior — Depression Detection in Social Media - 2019 
+- Ícaro Goulart Faria Motta França — Reinforcement Learning for Game Playing - 2019  
+- Sidney Araújo Melo — Graph Representation Learning for Game Provenance - 2019  
+- Rodrigo Azevedo Santos — Transfer Learning for Relational Models - 2019  
+- Kid Yonatan Valeriano Valdez — Unsupervised Analysis of Political Speeches - 2019  
+- Ashey John Masi Noblega — Reinforcement Learning for Game Balancing - 2019  
 
-**2018**  
-Felipe Borda Carregosa — Differentiable Neural Virtual Machines  
-Victor Augusto Lopes Guimarães — Probabilistic Theory Revision  
-Breno William Santos Rezende de Carvalho — Semi-structured Linguistic Data for ML  
-André Luís da Costa Nascimento — Reinforcement Learning for Cloud Workflow Scheduling  
-Hugo Arraes Henley — Predicting University Dropout with Relational ML  
+- Felipe Borda Carregosa — Differentiable Neural Virtual Machines - 2018
+- Victor Augusto Lopes Guimarães — Probabilistic Theory Revision - 2018 
+- Breno William Santos Rezende de Carvalho — Semi-structured Linguistic Data for ML - 2018 
+- André Luís da Costa Nascimento — Reinforcement Learning for Cloud Workflow Scheduling - 2018 
+- Hugo Arraes Henley — Predicting University Dropout with Relational ML  - 2018
 
-**2014**  
-Rainier Augusto Ferreira Sales — Affective NPCs in Simulation Games  
-Raphael Melo Thiago — Learning Multiple Concepts in Description Logics  
+- Rainier Augusto Ferreira Sales — Affective NPCs in Simulation Games - 2014 
+- Raphael Melo Thiago — Learning Multiple Concepts in Description Logics - 2014
 
-</details>
+alumni_undergrad:
+ - Check Lattes. There are too many ...
+---
 
