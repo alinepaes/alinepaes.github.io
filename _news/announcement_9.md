@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **New Paper Accepted at Machine Learning Journal!**
+title: New Paper Accepted at Machine Learning Journal!
 date: 2026-02-04 10:00:00 -0400
 inline: true
 related_posts: false
