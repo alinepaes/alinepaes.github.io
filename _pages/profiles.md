@@ -172,8 +172,6 @@ profiles_undergrad:
 
 
 
-alumni:
-
 alumni_dsc:
 
 - Sidney Araújo Melo — Graph Representation Learning for Game Provenance — 2024
