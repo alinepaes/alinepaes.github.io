@@ -1,77 +1,39 @@
 ---
 layout: page
 ---
+
 <div class="post">
-  {% if page.profiles_dsc %}
-    <article>
-      <h2 class="category_profile">D.Sc.</h2>
-      <div style="display:flex; flex-wrap: wrap;">
-        {% for profile in page.profiles_dsc %}
-          <div class="profile" style="padding: 10px">
-            {% if profile.image %}
-              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-              {% if profile.image_circular %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-              {% else %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-              {% endif %}
-              {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-            {% endif %}
-            {% if profile.more_info %}
-              <div class="more-info">{{ profile.more_info }}</div>
-            {% endif %}
-          </div>
-        {% endfor %}
-      </div>
-    </article>
-  {% endif %}
-  {% if page.profiles_msc %}
-    <article>
-      <h2 class="category_profile">M.Sc.</h2>
-      <div style="display:flex; flex-wrap: wrap;">
-        {% for profile in page.profiles_msc %}
-          <div class="profile" style="padding: 10px">
-            {% if profile.image %}
-              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-              {% if profile.image_circular %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-              {% else %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-              {% endif %}
-              {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-            {% endif %}
-            {% if profile.more_info %}
-              <div class="more-info">{{ profile.more_info }}</div>
-            {% endif %}
-          </div>
-        {% endfor %}
-      </div>
-    </article>
-  {% endif %}
-  {% if page.profiles_undergrad %}
-    <article>
-      <h2 class="category_profile">Undergraduate</h2>
-      <div style="display:flex; flex-wrap: wrap;">
-        {% for profile in page.profiles_undergrad %}
-          <div class="profile" style="padding: 10px">
-            {% if profile.image %}
-              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-              {% if profile.image_circular %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-              {% else %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-              {% endif %}
-              {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-            {% endif %}
-            {% if profile.more_info %}
-              <div class="more-info">{{ profile.more_info }}</div>
-            {% endif %}
-          </div>
-        {% endfor %}
-      </div>
-    </article>
-  {% endif %}
+
+{% include profile_category.liquid
+   title="D.Sc."
+   profiles=page.profiles_dsc
+%}
+
+{% include profile_category.liquid
+   title="M.Sc."
+   profiles=page.profiles_msc
+%}
+
+{% include profile_category.liquid
+   title="Undergraduate"
+   profiles=page.profiles_undergrad
+%}
+
+{% if page.alumni %}
+<article>
+<h2 class="category_profile">Alumni</h2>
+
+<details>
+<summary><b>Show alumni</b></summary>
+
+<ul>
+{% for alum in page.alumni %}
+<li>{{ alum }}</li>
+{% endfor %}
+</ul>
+
+</details>
+</article>
+{% endif %}
+
 </div>
