@@ -1,11 +1,11 @@
 ---
 layout: post
+title: **New Paper Accepted at Machine Learning Journal!**
 date: 2026-02-04 10:00:00 -0400
 inline: true
 related_posts: false
 ---
 
-**New Paper Accepted at Machine Learning Journal!**
 
 We are happy to share that our paper <a href="https://link.springer.com/article/10.1007/s10994-025-06940-9"> **“Select First, Transfer Later: Choosing a Proper Dataset for SRL and GNN Based Transfer Learning”** </a> has been published in *Machine Learning Journal*.
 
