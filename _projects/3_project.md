@@ -4,7 +4,7 @@ title: "AIDA: AI for Financial Document Analysis"
 description: >
 img: /assets/img/p3.png
 importance: 3
-category: Coordinating
+category: Current
 related_publications: false
 ---
 
