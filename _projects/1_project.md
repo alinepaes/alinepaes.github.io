@@ -4,7 +4,7 @@ title: "KALM: Knowledge-Aware Language Models"
 description: >
 img: /assets/img/p1.jpg
 importance: 1
-category: Coordinating
+category: Current
 related_publications: false
 ---
 
