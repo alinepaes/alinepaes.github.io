@@ -19,4 +19,5 @@ group :jekyll_plugins do
   gem "jekyll-toc"
   gem "jekyll-twitter-plugin"
   gem "jemoji"
+  gem "jekyll-tabs"
 end
