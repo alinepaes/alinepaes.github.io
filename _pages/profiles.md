@@ -170,6 +170,8 @@ profiles_undergrad:
       <p> Guilherme Rangel </p>
       <p> Diplomatic Q&A </p>
 
+---
+
 ## Alumni (for undergrad, please check my Lattes. They are too many...)
 
 ### D.Sc.
@@ -236,4 +238,3 @@ Raphael Melo Thiago — Learning Multiple Concepts in Description Logics
 
 </details>
 
----
