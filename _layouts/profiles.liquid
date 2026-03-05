@@ -19,20 +19,43 @@ layout: page
    profiles=page.profiles_undergrad
 %}
 
-{% if page.alumni %}
+{% if page.alumni_msc or page.alumni_undergrad or page.alumni_dsc %}
 <article>
-<h2 class="category_profile">Alumni</h2>
+  <h2 class="category_profile">Alumni</h2>
 
-<details>
-<summary><b>Show alumni</b></summary>
+  {% if page.alumni_dsc %}
+  <details>
+    <summary><b>D.Sc.</b></summary>
+    <ul>
+      {% for alum in page.alumni_dsc %}
+        <li>{{ alum }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endif %}
 
-<ul>
-{% for alum in page.alumni %}
-<li>{{ alum }}</li>
-{% endfor %}
-</ul>
+  {% if page.alumni_msc %}
+  <details>
+    <summary><b>M.Sc.</b></summary>
+    <ul>
+      {% for alum in page.alumni_msc %}
+        <li>{{ alum }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endif %}
 
-</details>
+  {% if page.alumni_undergrad %}
+  <details>
+    <summary><b>Undergraduate</b></summary>
+    <ul>
+      {% for alum in page.alumni_undergrad %}
+        <li>{{ alum }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endif %}
+
 </article>
 {% endif %}
 
