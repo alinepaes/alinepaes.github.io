@@ -5,9 +5,9 @@ inline: true
 related_posts: false
 ---
 
-📢 **New Paper Accepted at Machine Learning Journal!**
+**New Paper Accepted at Machine Learning Journal!**
 
-We are happy to share that our paper < a href="https://link.springer.com/article/10.1007/s10994-025-06940-9"> **“Select First, Transfer Later: Choosing a Proper Dataset for SRL and GNN Based Transfer Learning”** </a> has been accepted to the *Machine Learning Journal*.
+We are happy to share that our paper <a href="https://link.springer.com/article/10.1007/s10994-025-06940-9"> **“Select First, Transfer Later: Choosing a Proper Dataset for SRL and GNN Based Transfer Learning”** </a> has been accepted to the *Machine Learning Journal*.
 
 Traditional machine learning models often ignore the relational structure present in many real-world domains. Approaches such as **Statistical Relational Learning (SRL)** and **Graph Neural Networks (GNNs)** address this by explicitly modeling dependencies between entities. However, like traditional models, they typically assume that training and testing data come from the same distribution — an assumption that often fails in practice.
 
