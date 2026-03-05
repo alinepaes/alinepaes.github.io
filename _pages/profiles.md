@@ -164,7 +164,7 @@ profiles_undergrad:
       <p> Lucas Avelar </p>
       <p> Metaphor prompts </p>
 
-  - image: female_student.jpg
+  - image: male_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Guilherme Rangel </p>
