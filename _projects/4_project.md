@@ -4,7 +4,7 @@ title: "LENS: Low-Resource ML for Social Impact"
 description: > 
 img: /assets/img/p4.png
 importance: 4
-category: Coordinating
+category: Current
 related_publications: false
 ---
 
