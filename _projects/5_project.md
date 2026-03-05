@@ -4,7 +4,7 @@ title: "BASE-ESG: ESG Knowledge Bases for Responsible Generative AI"
 description: >
 img: /assets/img/p5.png
 importance: 5
-category: Coordinating
+category: Current
 related_publications: false
 ---
 
