@@ -216,14 +216,14 @@ alumni_msc:
 - Kid Yonatan Valeriano Valdez — <a href="https://sol.sbc.org.br/index.php/kdmile/article/view/27388"> Unsupervised Analysis of Political Speeches </a> - 2019  
 - Ashey John Masi Noblega — <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0007395406930700"> Reinforcement Learning for Game Balancing </a> - 2019  
 
-- Felipe Borda Carregosa — Differentiable Neural Virtual Machines - 2018
-- Victor Augusto Lopes Guimarães — Probabilistic Theory Revision - 2018 
-- Breno William Santos Rezende de Carvalho — Semi-structured Linguistic Data for ML - 2018 
-- André Luís da Costa Nascimento — Reinforcement Learning for Cloud Workflow Scheduling - 2018 
-- Hugo Arraes Henley — Predicting University Dropout with Relational ML  - 2018
+- Felipe Borda Carregosa — <a href="https://link.springer.com/chapter/10.1007/978-3-030-01424-7_22"> Differentiable Neural Virtual Machines </a> - 2018
+- Victor Augusto Lopes Guimarães — <a href="https://link.springer.com/article/10.1007/s10994-019-05798-y"> Probabilistic Theory Revision </a> - 2018 
+- Breno William Santos Rezende de Carvalho — <a href="https://www.csitcp.org/paper/10/1012csit01.pdf"> Semi-structured Linguistic Data for ML </a> - 2018 
+- André Luís da Costa Nascimento — <a href="https://onlinelibrary.wiley.com/doi/10.1002/cpe.6193"> Reinforcement Learning for Cloud Workflow Scheduling </a> - 2018 
+- Hugo Arraes Henley — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=870.pdf&tipo=trabalho"> Predicting University Dropout with Relational ML  </a> - 2018
 
-- Rainier Augusto Ferreira Sales — Affective NPCs in Simulation Games - 2014 
-- Raphael Melo Thiago — Learning Multiple Concepts in Description Logics - 2014
+- Rainier Augusto Ferreira Sales — <a href="https://link.springer.com/chapter/10.1007/978-3-642-41106-9_20"> Affective NPCs in Simulation Games </a> - 2014 
+- Raphael Melo Thiago — <a href="https://www.cambridge.org/core/journals/knowledge-engineering-review/article/learning-multiple-concepts-in-description-logic-through-three-perspectives/91A8D30C551453696F83A4C8CF5DAF14"> Learning Multiple Concepts in Description Logics </a> - 2014
 
 alumni_undergrad:
  - Check Lattes. There are too many ...
