@@ -10,10 +10,10 @@ nav_order: 4
 profiles_dsc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - image: male_student.jpg
+  - image: gabriel.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Gabriel Assis </p>
+      <p> <a href="https://github.com/g-assismoraes"> Gabriel Assis </a></p>
       <p> Adaptive Language Models </p>
   
   - image: male_student.jpg
@@ -28,10 +28,10 @@ profiles_dsc:
       <p> Juan Garcia </p>
       <p> Explainable Multilingual Post-training  </p> 
 
-  - image: male_student.jpg
+  - image: danieljr.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Daniel Silva Jr </p>
+      <p> <a href="https://github.com/danieljunior">Daniel Silva Jr </a></p>
       <p> RAG for regulatory texts  </p>
 
   - image: male_student.jpg
@@ -58,16 +58,16 @@ profiles_dsc:
       <p> Laura Alvarenga </p>
       <p> Misogyny Detection </p>
       
-  - image: female_student.jpg
+  - image: leticia.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Letícia Freire </p>
+      <p> <a href="https://github.com/lefreire">Letícia Freire </a></p>
       <p> XAI Recommendation Systems </p>
 
-  - image: female_student.jpg
+  - image: annie.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Annie Amorin </p>
+      <p> <a href="https://github.com/annieamorim"> Annie Amorin </a></p>
       <p> Model Merging and Workflows</p>
 
   - image: male_student.jpg
@@ -92,10 +92,10 @@ profiles_dsc:
 profiles_msc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - image: male_student.jpg
+  - image: arthurb.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Arthur Bittencourt  </p>
+      <p> <a href="https://github.com/Allrthur"> Arthur Bittencourt  </a></p>
       <p> Skewed data for classification</p>
 
   - image: male_student.jpg
@@ -110,10 +110,10 @@ profiles_undergrad:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 
-  - image: female_student.jpg
+  - image: gabriela.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Gabriela Cassini </p>
+      <p> <a href="https://github.com/GabiCasini"> Gabriela Cassini </a></p>
       <p> LLMs for Scoring Diplomatic Essays </p>
 
   - image: male_student.jpg
@@ -140,10 +140,10 @@ profiles_undergrad:
       <p> Isabella Leite </p>
       <p> ESG Reports, metaphor resources </p>
 
-  - image: female_student.jpg
+  - image: isis.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Isis Meira Guimarães</p>
+      <p> <a href="https://github.com/isismeira">Isis Meira Guimarães</a></p>
       <p> ESG Topics and Datasets </p>
 
   - image: male_student.jpg
@@ -164,10 +164,10 @@ profiles_undergrad:
       <p> Lucas Avelar </p>
       <p> Metaphor prompts </p>
 
-  - image: male_student.jpg
+  - image: guilherme.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Guilherme Rangel </p>
+      <p> <a href="https://github.com/glhmartins"> Guilherme Rangel </a></p>
       <p> Diplomatic Q&A </p>
 
 
