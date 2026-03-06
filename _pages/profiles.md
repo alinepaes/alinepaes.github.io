@@ -128,10 +128,10 @@ profiles_undergrad:
       <p> Luisa Stellet  </p>
       <p> Editing models for multilingual metaphor </p>
 
-  - image: female_student.jpg
+  - image: amandaz.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Amanda Zirpolo </p>
+      <p> <a href="https://github.com/amandazirpolo"> Amanda Zirpolo </a> </p>
       <p> Editing models for bias detection </p>
 
   - image: female_student.jpg
