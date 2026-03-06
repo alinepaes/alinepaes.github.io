@@ -40,10 +40,10 @@ profiles_dsc:
       <p> Osniel Teixeira </p>
       <p> Algorithmic Reasoning </p>
 
-  - image: female_student.jpg
+  - image: ale.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Alessandra Gomes </p>
+      <p> <a href="https://github.com/alegomesbr"> Alessandra Gomes <\a></p>
       <p> Persuasion Detection </p>
 
   - image: female_student.jpg
@@ -70,19 +70,19 @@ profiles_dsc:
       <p> <a href="https://github.com/annieamorim"> Annie Amorin </a></p>
       <p> Model Merging and Workflows</p>
 
-  - image: male_student.jpg
+  - image: scalercio.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/scalercio">Arthur Scalercio </a></p>
       <p> Text Simplification </p>
           
-  - image: thais.jpg
+  - image: thais.png
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/ThaisLuca"> Thais Luca (UFRJ) </a></p>
       <p> Relational ML </p>
 
-  - image: vitor.jpg
+  - image: vitor.png
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/vitornl">Vítor Lourenço </a></p>
@@ -98,10 +98,10 @@ profiles_msc:
       <p> <a href="https://github.com/Allrthur"> Arthur Bittencourt  </a></p>
       <p> Skewed data for classification</p>
 
-  - image: male_student.jpg
+  - image: jguilherme.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> J. Guilherme Freitas  </p>
+      <p> <a href="https://github.com/joaoguilhermefr"> J. Guilherme Rocha  </a></p>
       <p> Reasoning for financial analysis</p>
       
 
