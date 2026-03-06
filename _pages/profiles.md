@@ -22,7 +22,7 @@ profiles_dsc:
       <p> J. Pedro D'Assumpção </p>
       <p> Interpretable LLMs for Ageing </p>
 
-  - image: male_student.jpg
+  - image: juan.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Juan Garcia </p>
@@ -34,10 +34,10 @@ profiles_dsc:
       <p> <a href="https://github.com/danieljunior">Daniel Silva Jr </a></p>
       <p> RAG for regulatory texts  </p>
 
-  - image: male_student.jpg
+  - image: osniel.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Osniel Teixeira </p>
+      <p> <a href="https://github.com/osnieltx"> Osniel Teixeira </a></p>
       <p> Algorithmic Reasoning </p>
 
   - image: ale.jpg
@@ -52,10 +52,10 @@ profiles_dsc:
       <p> Camila Lopes </p>
       <p> Federated Learning for Astronomy data </p>
   
-  - image: female_student.jpg
+  - image: laura.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Laura Alvarenga </p>
+      <p> <a href="https://github.com/LLeers"> Laura Alvarenga </a></p>
       <p> Misogyny Detection </p>
       
   - image: leticia.jpg
@@ -116,10 +116,10 @@ profiles_undergrad:
       <p> <a href="https://github.com/GabiCasini"> Gabriela Cassini </a></p>
       <p> LLMs for Scoring Diplomatic Essays </p>
 
-  - image: male_student.jpg
+  - image: rodrigo.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Rodrigo Cavalcanti </p>
+      <p> <a href="https://github.com/Rodcvjoao"> Rodrigo Cavalcanti </a></p>
       <p> LLMs for Scoring Diplomatic Essays </p>
 
   - image: luisa.jpg
@@ -134,10 +134,10 @@ profiles_undergrad:
       <p> <a href="https://github.com/amandazirpolo"> Amanda Zirpolo </a> </p>
       <p> Editing models for bias detection </p>
 
-  - image: female_student.jpg
+  - image: isabella.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Isabella Leite </p>
+      <p> <a href="https://www.linkedin.com/in/isabella-leite-42a60028b/"> Isabella Leite </a></p>
       <p> ESG Reports, metaphor resources </p>
 
   - image: isis.jpg
@@ -146,22 +146,22 @@ profiles_undergrad:
       <p> <a href="https://github.com/isismeira">Isis Guimarães</a></p>
       <p> ESG Topics and Datasets </p>
 
-  - image: male_student.jpg
+  - image: ayrton.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Ayrton Surica</p>
+      <p> <a href="https://github.com/AyrtonSur"> Ayrton Surica </a></p>
       <p> ESG Agents </p>
 
-  - image: female_student.jpg
+  - image: maju.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> M. Julia Galiza</p>
+      <p> <a href="https://github.com/majugaliza">M. Julia Galiza </a></p>
       <p> Woman health Q&A </p>
 
   - image: male_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Lucas Avelar </p>
+      <p> <a href="https://github.com/1lit4"> Lucas Avelar </a></p>
       <p> Metaphor prompts </p>
 
   - image: guilherme.jpg
