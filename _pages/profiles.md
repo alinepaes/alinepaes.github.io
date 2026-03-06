@@ -43,7 +43,7 @@ profiles_dsc:
   - image: ale.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> <a href="https://github.com/alegomesbr"> Alessandra Gomes <\a></p>
+      <p> <a href="https://github.com/alegomesbr"> Alessandra Gomes </a></p>
       <p> Persuasion Detection </p>
 
   - image: female_student.jpg
