@@ -40,7 +40,7 @@ profiles_dsc:
       <p> <a href="https://github.com/osnieltx"> Osniel Teixeira </a></p>
       <p> Algorithmic Reasoning </p>
 
-  - image: ale.jpg
+  - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/alegomesbr"> Alessandra Gomes </a></p>
