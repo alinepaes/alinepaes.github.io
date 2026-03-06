@@ -193,7 +193,7 @@ alumni_msc:
 - Felipe dos Santos Ribeiro — Fact Checking and Misinformation in Brazilian Portuguese - 2023
 - Ricardo de Souza Moura — Efficient BERTweet Models for Twitter Sentiment Analysis   - 2023
 - Elbe Alves Miranda — Natural Language Question Answering over Knowledge Graphs - 2023
-- Fernando Pereira Carneiro — Portuguese Language Model for Tweets   - 2023
+- Fernando Pereira Carneiro — <a href="https://link.springer.com/article/10.1007/s00521-024-10711-3"> Portuguese Language Model for Tweets </a>   - 2023
 - Annie Vianna Amorim — Topic Modeling Evaluation for Short Texts   - 2023
 - Luiza Cunha de Menezes — Data Augmentation for Readability Assessment   - 2023
 
