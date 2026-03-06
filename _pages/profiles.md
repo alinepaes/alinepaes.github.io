@@ -52,7 +52,7 @@ profiles_dsc:
       <p> Camila Lopes </p>
       <p> Federated Learning for Astronomy data </p>
   
-  - image: laura.jpg
+  - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/LLeers"> Laura Alvarenga </a></p>
