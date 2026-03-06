@@ -19,7 +19,7 @@ profiles_dsc:
   - image: male_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> João Pedro D'Assumpção </p>
+      <p> J. Pedro D'Assumpção </p>
       <p> Interpretable LLMs for Ageing </p>
 
   - image: male_student.jpg
@@ -73,19 +73,19 @@ profiles_dsc:
   - image: male_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Arthur Scalercio </p>
+      <p> <a href="https://github.com/scalercio">Arthur Scalercio </a></p>
       <p> Text Simplification </p>
           
-  - image: female_student.jpg
+  - image: thais.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Thais Luca (UFRJ) </p>
+      <p> <a href="https://github.com/ThaisLuca"> Thais Luca (UFRJ) </a></p>
       <p> Relational ML </p>
 
-  - image: male_student.jpg
+  - image: vitor.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Vítor Lourenço </p>
+      <p> <a href="https://github.com/vitornl">Vítor Lourenço </a></p>
       <p> XAI, Multimodal ML, Misinformation </p>
       
   
@@ -101,7 +101,7 @@ profiles_msc:
   - image: male_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> João Guilherme Freitas  </p>
+      <p> J. Guilherme Freitas  </p>
       <p> Reasoning for financial analysis</p>
       
 
@@ -122,10 +122,10 @@ profiles_undergrad:
       <p> Rodrigo Cavalcanti </p>
       <p> LLMs for Scoring Diplomatic Essays </p>
 
-  - image: female_student.jpg
+  - image: luisa.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Luisa Stellet  </p>
+      <p> <a href="https://github.com/luisastellet"> Luisa Stellet </a> </p>
       <p> Editing models for multilingual metaphor </p>
 
   - image: amandaz.jpg
@@ -143,7 +143,7 @@ profiles_undergrad:
   - image: isis.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> <a href="https://github.com/isismeira">Isis Meira Guimarães</a></p>
+      <p> <a href="https://github.com/isismeira">Isis Guimarães</a></p>
       <p> ESG Topics and Datasets </p>
 
   - image: male_student.jpg
@@ -155,7 +155,7 @@ profiles_undergrad:
   - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> Maria Julia Galiza</p>
+      <p> M. Julia Galiza</p>
       <p> Woman health Q&A </p>
 
   - image: male_student.jpg
