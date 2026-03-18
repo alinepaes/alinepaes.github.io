@@ -182,7 +182,7 @@ alumni_dsc:
 
 alumni_msc:
 
-- Gabriel Assis de Moraes <a href= "https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5814"> On the Trail of a Green and Golden Generative AI: Assessing LLM Text Generation in Brazilian Portuguese </a> - 2026
+- Gabriel Assis de Moraes - <a href="https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5814"> On the Trail of a Green and Golden Generative AI: Assessing LLM Text Generation in Brazilian Portuguese </a> - 2026
 - Gabriel Henrique Coelho Silva — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1244.pdf&tipo=trabalho"> Handwritten Text Recognition for Portuguese </a> - 2025
 - João Vítor Oliveira Ferreira — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1267.pdf&tipo=trabalho"> Metamorphic Testing for Fake News Detection in LLMs </a> - 2025
 - Osniel Lopes Teixeira — <a href="https://proceedings.science/sbpo/sbpo-2025/trabalhos/tackling-combinatorial-optimization-with-hybrid-dql-a-case-study-with-the-minimu?lang=pt-br"> Graph Reinforcement Learning for Combinatorial Optimization </a> - 2025
