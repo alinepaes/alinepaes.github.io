@@ -146,12 +146,6 @@ profiles_undergrad:
       <p> <a href="https://github.com/isismeira">Isis Guimarães</a></p>
       <p> ESG Topics and Datasets </p>
 
-  - image: ayrton.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> <a href="https://github.com/AyrtonSur"> Ayrton Surica </a></p>
-      <p> ESG Agents </p>
-
   - image: maju.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -169,6 +163,12 @@ profiles_undergrad:
     more_info: >
       <p> <a href="https://github.com/glhmartins"> Guilherme Rangel </a></p>
       <p> Diplomatic Q&A </p>
+
+- image: madu.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> <a href="https://github.com/glhmartins"> Maria Eduarda Vianna </a></p>
+      <p> ESG Q&A </p>
 
 
 
