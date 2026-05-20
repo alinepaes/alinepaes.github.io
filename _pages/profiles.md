@@ -126,13 +126,13 @@ profiles_undergrad:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/luisastellet"> Luisa Stellet </a> </p>
-      <p> Editing models for multilingual metaphor </p>
+      <p> Models for multilingual metaphor </p>
 
   - image: amandaz.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/amandazirpolo"> Amanda Zirpolo </a> </p>
-      <p> Editing models for bias detection </p>
+      <p> Multilingual automated fact-checking</p>
 
   - image: isabella.jpg
     image_circular: false # crops the image to make it circular
@@ -174,7 +174,7 @@ profiles_undergrad:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/orgs/MeLLL-UFF/people/isadireito"> Isabella Direito </a></p>
-      <p> Diplomatic Q&A </p>
+      <p> Woman health Q&A </p>
 
      
 
