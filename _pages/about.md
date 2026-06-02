@@ -8,8 +8,8 @@ subtitle: alinepaes (at) ic.uff.br
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  width: 40%
+  image_circular: false # crops the image to make it circular
+  width: 60%
   more_info: 
      
 
