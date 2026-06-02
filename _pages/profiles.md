@@ -150,7 +150,7 @@ profiles_undergrad:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/majugaliza">M. Julia Galiza </a></p>
-      <p> Woman health Q&A </p>
+      <p> Women health Q&A </p>
 
   - image: male_student.jpg
     image_circular: false # crops the image to make it circular
@@ -174,7 +174,7 @@ profiles_undergrad:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/orgs/MeLLL-UFF/people/isadireito"> Isabella Direito </a></p>
-      <p> Woman health Q&A </p>
+      <p> Women health Q&A </p>
 
      
 
