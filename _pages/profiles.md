@@ -82,11 +82,11 @@ profiles_dsc:
       <p> <a href="https://github.com/ThaisLuca"> Thais Luca (UFRJ) </a></p>
       <p> Relational ML </p>
 
-  - image: vitor.png
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> <a href="https://github.com/vitornl">Vítor Lourenço </a></p>
-      <p> XAI, Multimodal ML, Misinformation </p>
+  # - image: vitor.png
+  #  image_circular: false # crops the image to make it circular
+  #  more_info: >
+  #    <p> <a href="https://github.com/vitornl">Vítor Lourenço </a></p>
+  #    <p> XAI, Multimodal ML, Misinformation </p>
       
   
 profiles_msc:
@@ -110,17 +110,17 @@ profiles_undergrad:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 
-  - image: gabriela.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> <a href="https://github.com/GabiCasini"> Gabriela Cassini </a></p>
-      <p> LLMs for Scoring Diplomatic Essays </p>
+ # - image: gabriela.jpg
+ #   image_circular: false # crops the image to make it circular
+ #   more_info: >
+ #     <p> <a href="https://github.com/GabiCasini"> Gabriela Cassini </a></p>
+ #     <p> LLMs for Scoring Diplomatic Essays </p>
 
-  - image: rodrigo.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> <a href="https://github.com/Rodcvjoao"> Rodrigo Cavalcanti </a></p>
-      <p> LLMs for Scoring Diplomatic Essays </p>
+ # - image: rodrigo.jpg
+ #   image_circular: false # crops the image to make it circular
+ #   more_info: >
+ #     <p> <a href="https://github.com/Rodcvjoao"> Rodrigo Cavalcanti </a></p>
+ #     <p> LLMs for Scoring Diplomatic Essays </p>
 
   - image: luisa.jpg
     image_circular: false # crops the image to make it circular
@@ -182,11 +182,12 @@ profiles_undergrad:
 
 alumni_dsc:
 
-- Sidney Araújo Melo — Graph Representation Learning for Game Provenance — 2024
-- Claudio Vasconcelos Ribeiro — Vessel Trajectory Anomaly Detection — 2024
-- Paulo Roberto Mann Marques Junior — Depression Detection in Social Media — 2023
-- Jéssica Soares dos Santos — Dataset Ranking for Transfer Learning in Sentiment Analysis — 2023
-- David Batista Carvalho — Social Behavior Modeling in Computational Story Generation — 2017
+- Vítor Nascimento Lourenço - Towards Trustworthy and Explainable Automated Fact-Checking: from Multimodal Classification to Knowledge-Grounded Reasoning - 2026
+- Sidney Araújo Melo — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1227.pdf&tipo=trabalho"> Graph Representation Learning for Game Provenance </a> — 2024
+- Claudio Vasconcelos Ribeiro — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1177.pdf&tipo=trabalho"> A Collaborative Analysis of Anomalous Trajectories of Vessels Based on Clustering Algorithms </a> — 2024
+- Paulo Roberto Mann Marques Junior — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1169.pdf&tipo=trabalho"> Automatic Screening for Depression Using Brazilian Portuguese Social Media Data: Multimodality, Sequential Information, and Topics </a> — 2023
+- Jéssica Soares dos Santos — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1089.pdf&tipo=trabalho"> A Dataset Ranking Approach for Transfer Learning to Support Sentiment Analysis in Electoral Scenarios </a> — 2023
+- David Batista Carvalho — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=775.pdf&tipo=trabalho"> Social Behavior of Characters in Computational Story Generation </a> — 2017
 
 alumni_msc:
 
@@ -235,6 +236,6 @@ alumni_msc:
 - Raphael Melo Thiago — <a href="https://www.cambridge.org/core/journals/knowledge-engineering-review/article/learning-multiple-concepts-in-description-logic-through-three-perspectives/91A8D30C551453696F83A4C8CF5DAF14"> Learning Multiple Concepts in Description Logics </a> - 2014
 
 alumni_undergrad:
- - Check Lattes. There are too many ...
+ - Check my <a href="http://lattes.cnpq.br/0506389215528790"> Lattes CV </a>. There are too many ...
 ---
 
