@@ -152,11 +152,11 @@ profiles_undergrad:
       <p> <a href="https://github.com/majugaliza">M. Julia Galiza </a></p>
       <p> Women health Q&A </p>
 
-  - image: male_student.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> <a href="https://github.com/1lit4"> Lucas Avelar </a></p>
-      <p> Metaphor prompts </p>
+ # - image: male_student.jpg
+ #   image_circular: false # crops the image to make it circular
+ #   more_info: >
+ #     <p> <a href="https://github.com/1lit4"> Lucas Avelar </a></p>
+ #     <p> Metaphor prompts </p>
 
   - image: guilherme.jpg
     image_circular: false # crops the image to make it circular
