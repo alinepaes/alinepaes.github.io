@@ -10,6 +10,18 @@ nav_order: 4
 profiles_dsc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - image: camila.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> <a href="https://github.com/camila-cg"> Camila Gusmão Assis </a></p>
+      <p> Language Models Abilities </p>
+      
+  - image: sergio.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> <a href="https://github.com/SergioBarretoJr"> Sergio Barreto </a></p>
+      <p> Self-improved Agents </p>
+      
   - image: gabriel.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
