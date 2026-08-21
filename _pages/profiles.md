@@ -169,13 +169,7 @@ profiles_undergrad:
  #   more_info: >
  #     <p> <a href="https://github.com/1lit4"> Lucas Avelar </a></p>
  #     <p> Metaphor prompts </p>
-
-  - image: guilherme.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> <a href="https://github.com/glhmartins"> Guilherme Rangel </a></p>
-      <p> Diplomatic Q&A </p>
-
+ 
   - image: madu.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
