@@ -13,7 +13,7 @@ profiles_dsc:
   - image: camila.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> <a href="https://github.com/camila-cg"> Camila Gusmão Assis </a></p>
+      <p> <a href="https://github.com/camila-cg"> Camila Gusmão </a></p>
       <p> Language Models Abilities </p>
       
   - image: sergio.jpeg
