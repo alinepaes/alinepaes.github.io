@@ -176,7 +176,7 @@ profiles_undergrad:
       <p> <a href="https://github.com/orgs/Melllitau/people/maduVianna"> Maria Eduarda Vianna </a></p>
       <p> ESG Q&A </p>
       
-  - image: female_student.jpg
+  - image: isadireito.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/orgs/MeLLL-UFF/people/isadireito"> Isabella Direito </a></p>
