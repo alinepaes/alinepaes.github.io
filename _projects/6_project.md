@@ -23,13 +23,10 @@ reasoning, identifying linguistic biases, and producing clear explanations that 
 ## Objectives
 
 - Categorize reasoning types: Identify and organize the main forms of reasoning required across languages, such as logical, causal, numerical, commonsense, and relational reasoning.
-
 - Evaluate multilingual performance: Measure how accurately and consistently LLMs perform these reasoning tasks across languages, language families, and resource levels.
-
 - Identify performance differences: Determine how linguistic structure, training-data availability, prompting language, and cultural context influence reasoning outcomes.
-
 - Explain LLM processing differences: Analyze the models’ internal representations and reasoning pathways to explain why LLMs process equivalent problems differently across languages.
 
 ## Funding & Support
 
-This project is financed by **ICT Itaú**, covering the period from January 2026 to December 2027.
+This project is financed by **KUNUMI Labs**, covering the period from August 2026 to December 2027.
