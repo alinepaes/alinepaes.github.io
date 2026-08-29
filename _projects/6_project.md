@@ -4,7 +4,7 @@ layout: page
 title: "XMuR — eXplainable MUltilingual Reasoning."
 description: >
 img: /assets/img/p6.png
-importance: 5
+importance: 6
 category: Current
 related_publications: false
 ---
