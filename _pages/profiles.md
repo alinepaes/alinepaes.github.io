@@ -189,7 +189,7 @@ profiles_undergrad:
 alumni_dsc:
 
 - Thais Luca Marques de Almeida - Similarity-Based Source Selection For Transfer Learning In Symbolic And Neural Relational Representations - 2026
-- 'Vítor Nascimento Lourenço - <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1331.pdf&tipo=trabalho"> Towards Trustworthy and Explainable Automated Fact-Checking: from Multimodal Classification to Knowledge-Grounded Reasoning </a> - 2026'
+- 'Vítor Nascimento Lourenço - <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1331.pdf&tipo=trabalho"> "Towards Trustworthy and Explainable Automated Fact-Checking: from Multimodal Classification to Knowledge-Grounded Reasoning" </a> - 2026'
 - Sidney Araújo Melo — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1227.pdf&tipo=trabalho"> Graph Representation Learning for Game Provenance </a> — 2024
 - Claudio Vasconcelos Ribeiro — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1177.pdf&tipo=trabalho"> A Collaborative Analysis of Anomalous Trajectories of Vessels Based on Clustering Algorithms </a> — 2024
 - 'Paulo Roberto Mann Marques Junior — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1169.pdf&tipo=trabalho"> "Automatic Screening for Depression Using Brazilian Portuguese Social Media Data: Multimodality, Sequential Information, and Topics" </a> — 2023'
@@ -198,7 +198,7 @@ alumni_dsc:
 
 alumni_msc:
 
-- Gabriel Assis de Moraes - <a href="https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5814"> On the Trail of a Green and Golden Generative AI: Assessing LLM Text Generation in Brazilian Portuguese </a> - 2026
+- 'Gabriel Assis de Moraes - <a href="https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5814"> "On the Trail of a Green and Golden Generative AI: Assessing LLM Text Generation in Brazilian Portuguese" </a> - 2026'
 - Gabriel Henrique Coelho Silva — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1244.pdf&tipo=trabalho"> Handwritten Text Recognition for Portuguese </a> - 2025
 - João Vítor Oliveira Ferreira — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1267.pdf&tipo=trabalho"> Metamorphic Testing for Fake News Detection in LLMs </a> - 2025
 - Osniel Lopes Teixeira — <a href="https://proceedings.science/sbpo/sbpo-2025/trabalhos/tackling-combinatorial-optimization-with-hybrid-dql-a-case-study-with-the-minimu?lang=pt-br"> Graph Reinforcement Learning for Combinatorial Optimization </a> - 2025
