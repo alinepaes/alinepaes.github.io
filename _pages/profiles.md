@@ -44,7 +44,7 @@ profiles_dsc:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/danieljunior">Daniel Silva Jr </a></p>
-      <p> RAG for regulatory texts  </p>
+      <p> Handling complex questions in long texts  </p>
 
   - image: osniel.jpg
     image_circular: false # crops the image to make it circular
