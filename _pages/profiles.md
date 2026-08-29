@@ -189,7 +189,7 @@ profiles_undergrad:
 alumni_dsc:
 
 - Thais Luca Marques de Almeida - Similarity-Based Source Selection For Transfer Learning In Symbolic And Neural Relational Representations - 2026
-- Vítor Nascimento Lourenço - <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1331.pdf&tipo=trabalho"> Towards Trustworthy and Explainable Automated Fact-Checking: from Multimodal Classification to Knowledge-Grounded Reasoning </a> - 2026
+- 'Vítor Nascimento Lourenço - <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1331.pdf&tipo=trabalho"> Towards Trustworthy and Explainable Automated Fact-Checking: from Multimodal Classification to Knowledge-Grounded Reasoning </a> - 2026'
 - Sidney Araújo Melo — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1227.pdf&tipo=trabalho"> Graph Representation Learning for Game Provenance </a> — 2024
 - Claudio Vasconcelos Ribeiro — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1177.pdf&tipo=trabalho"> A Collaborative Analysis of Anomalous Trajectories of Vessels Based on Clustering Algorithms </a> — 2024
 - 'Paulo Roberto Mann Marques Junior — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1169.pdf&tipo=trabalho"> "Automatic Screening for Depression Using Brazilian Portuguese Social Media Data: Multimodality, Sequential Information, and Topics" </a> — 2023'
