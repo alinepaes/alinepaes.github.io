@@ -115,6 +115,12 @@ profiles_msc:
     more_info: >
       <p> <a href="https://github.com/joaoguilhermefr"> J. Guilherme Rocha  </a></p>
       <p> Reasoning for financial analysis</p>
+
+  - image: marina.jpeg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> <a href="https://github.com/marinaramalhete"> Marina Ramalhete  </a></p>
+      <p> Entity-anchoring text evaluation </p>
       
 
 
