@@ -10,6 +10,12 @@ nav_order: 4
 profiles_dsc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - image: arthurb.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> <a href="https://github.com/Allrthur"> Arthur Bittencourt  </a></p>
+      <p> Data Selection for Continual Multilingue Learning </p>
+
   - image: camila.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -104,12 +110,6 @@ profiles_dsc:
 profiles_msc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - image: arthurb.jpg
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> <a href="https://github.com/Allrthur"> Arthur Bittencourt  </a></p>
-      <p> Skewed data for classification</p>
-
   - image: jguilherme.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -198,6 +198,7 @@ alumni_dsc:
 
 alumni_msc:
 
+- Arthur Bittencourt Vasconcelos - Balanceamento de Classes com Seleção de Paráfrases para Classificação Binária de Textos - 2026
 - 'Gabriel Assis de Moraes - <a href="https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5814"> "On the Trail of a Green and Golden Generative AI: Assessing LLM Text Generation in Brazilian Portuguese" </a> - 2026'
 - Gabriel Henrique Coelho Silva — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1244.pdf&tipo=trabalho"> Handwritten Text Recognition for Portuguese </a> - 2025
 - João Vítor Oliveira Ferreira — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1267.pdf&tipo=trabalho"> Metamorphic Testing for Fake News Detection in LLMs </a> - 2025
