@@ -38,7 +38,7 @@ profiles_dsc:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> J. Pedro D'Assumpção </p>
-      <p> Interpretable LLMs for Ageing </p>
+      <p> Interpretable reasoning LLMs</p>
 
   - image: juan.jpg
     image_circular: false # crops the image to make it circular
@@ -204,7 +204,7 @@ alumni_dsc:
 
 alumni_msc:
 
-- Arthur Bittencourt Vasconcelos - Balanceamento de Classes com Seleção de Paráfrases para Classificação Binária de Textos - 2026
+- 'Arthur Bittencourt Vasconcelos - <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1352.pdf&tipo=trabalho"> "Balanceamento de Classes com Seleção de Paráfrases para Classificação Binária de Textos"</a> - 2026'
 - 'Gabriel Assis de Moraes - <a href="https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5814"> "On the Trail of a Green and Golden Generative AI: Assessing LLM Text Generation in Brazilian Portuguese" </a> - 2026'
 - Gabriel Henrique Coelho Silva — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1244.pdf&tipo=trabalho"> Handwritten Text Recognition for Portuguese </a> - 2025
 - João Vítor Oliveira Ferreira — <a href="https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1267.pdf&tipo=trabalho"> Metamorphic Testing for Fake News Detection in LLMs </a> - 2025
