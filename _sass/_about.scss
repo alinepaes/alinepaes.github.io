@@ -1,0 +1,10 @@
+// About page — keep the portrait from taking over the screen on phones
+@media (max-width: 575.98px) {
+  .profile,
+  .profile.float-right,
+  .profile.float-left {
+    width: 60%;
+    margin: 0 auto 1rem;
+    float: none !important;
+  }
+}
