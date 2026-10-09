@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   BRAGFOST 2026 – AI for Good
-date: 2026-24-09 10:00:00 -0400
+date: 2026-09-24 10:00:00 -0400
 inline: true
 related_posts: false
 ---
