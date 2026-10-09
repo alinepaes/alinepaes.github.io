@@ -2,72 +2,54 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Graduate and undergraduate courses. Only a list, all my classes are private in Google Classroom. 
+description: Undergraduate and graduate courses I have taught at UFF. Course materials are shared privately with enrolled students via Google Classroom.
 nav: true
 nav_order: 5
-
 ---
 
-** 2025/2 **  
-Programming with C (Computer Science),  
-Language Models (Graduate in CS)  
+{% comment %} Data lives in _data/teaching.yml — edit courses there. Styles: _sass/_teaching.scss {% endcomment %}
+{% assign t = site.data.teaching %}
+{% assign grad = t.courses | where: "level", "grad" %}
+{% assign undergrad = t.courses | where: "level", "undergrad" %}
 
----
+<div class="teaching">
 
-** 2025/1 **  
-Programming with C (Computer Science),  
-Artificial Intelligence (CS) 
+  {% assign groups = "grad,undergrad" | split: "," %}
+  {% for lvl in groups %}
+    {% if lvl == "grad" %}
+      {% assign list = grad %}{% assign heading = "Graduate" %}
+    {% else %}
+      {% assign list = undergrad %}{% assign heading = "Undergraduate" %}
+    {% endif %}
 
----
+    <h2 class="teaching-heading">{{ heading }}</h2>
+    <div class="course-grid">
+      {% for c in list %}
+        <article class="course-card course-{{ c.level }}" aria-label="{% if c.level == 'grad' %}Graduate{% else %}Undergraduate{% endif %} course">
+          <div class="course-top">
+            <span class="course-level">{{ c.program }}</span>
+            <span class="course-count" title="Times offered since 2020">{{ c.semesters.size }}×</span>
+          </div>
+          <h3 class="course-name">{{ c.name }}</h3>
+          <p class="course-desc">{{ c.description }}</p>
+          <ul class="course-semesters" aria-label="Semesters offered">
+            {% for s in c.semesters %}
+              {% if t.remote_semesters contains s %}
+                <li class="remote" title="Online (COVID-19)">{{ s }}</li>
+              {% else %}
+                <li>{{ s }}</li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </article>
+      {% endfor %}
+    </div>
+  {% endfor %}
 
-** 2024/2 **  
-Programming with C (Computer Science),  
-Language Models (Graduate in CS) 
+  <h2 class="teaching-heading">Before 2020</h2>
+  <div class="course-earlier">
+    {% for name in t.earlier %}<span>{{ name }}</span>{% endfor %}
+  </div>
 
----
-
-** 2024/1 **  
-Programming with C (CS)
-Programming with Python (Chemical Eng.)   
-
---- 
-** 2023/2 **  
-Language Models (Graduate in CS)  
-Programming with Python (Chemical Eng.)    
-
----
-** 2022/2 **  
-Artificial Intelligence (CS)   
-Relational Machine Learning (Graduate in CS)  
-
----
-** 2022/1 **  
-Artificial Intelligence (CS)  
-Natural Language Processing (Graduate in CS)  
-
----
-** 2021/2 (online due to covid) **  
-Artificial Intelligence (CS)  
-Machine Learning (Graduate in CS)  
-
----
-** 2021/1 (online due to covid) **  
-Artificial Intelligence (CS)  
-Natural Language Processing (Graduate in CS)  
-
----
-** 2020/2 (online due to covid) **  
-Natural Language Processing (Undergraduate in CS)  
-Programming with Python (Undergraduate in sth)  
-
----
-** 2020/1 (online due to covid) **  
-Artificial Intelligence (Graduate in CS)  
-Programming with C (CS)  
-
----
-** Before 2020: Programming with Python, Programming with C, Object-oriented Programming, Compilers, Artificial intelligence, Representation Learning 
----
-
-
-
+  <p class="teaching-note"><span class="legend-remote"></span> Dashed semesters were taught online during the COVID-19 pandemic.</p>
+</div>
