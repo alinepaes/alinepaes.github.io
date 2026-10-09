@@ -1,0 +1,71 @@
+# Courses shown on /teaching/ (rendered by _pages/teaching.md).
+# level: grad | undergrad
+# semesters: most recent first. Semesters listed in `remote_semesters` get an "online" mark.
+
+remote_semesters: ["2020/1", "2020/2", "2021/1", "2021/2"]
+
+courses:
+  # ---------------- Graduate ----------------
+  - name: Language Models
+    level: grad
+    program: Computer Science · MSc/PhD
+    description: From n-grams to Transformers and LLMs — pre-training, fine-tuning, prompting, alignment and evaluation.
+    semesters: ["2025/2", "2024/2", "2023/2"]
+
+  - name: Natural Language Processing
+    level: grad
+    program: Computer Science · MSc/PhD
+    description: Statistical and neural methods for NLP — text representations, sequence models, Transformers and core tasks.
+    semesters: ["2022/1", "2021/1"]
+
+  - name: Relational Machine Learning
+    level: grad
+    program: Computer Science · MSc/PhD
+    description: Learning from relational and structured data — statistical relational learning, inductive logic programming and graph neural networks.
+    semesters: ["2022/2"]
+
+  - name: Machine Learning
+    level: grad
+    program: Computer Science · MSc/PhD
+    description: Core machine learning — supervised and unsupervised learning, model selection and generalization.
+    semesters: ["2021/2"]
+
+  - name: Artificial Intelligence
+    level: grad
+    program: Computer Science · MSc/PhD
+    description: Search, logic and knowledge representation, probabilistic reasoning and learning at graduate level.
+    semesters: ["2020/1"]
+
+  # ---------------- Undergraduate ----------------
+  - name: Programming with C
+    level: undergrad
+    program: Computer Science
+    description: Introductory programming in C — control flow, functions, arrays, pointers, memory and basic data structures.
+    semesters: ["2025/2", "2025/1", "2024/2", "2024/1", "2020/1"]
+
+  - name: Artificial Intelligence
+    level: undergrad
+    program: Computer Science
+    description: Foundations of AI — search, knowledge representation and reasoning, uncertainty and an introduction to machine learning.
+    semesters: ["2025/1", "2022/2", "2022/1", "2021/2", "2021/1"]
+
+  - name: Programming with Python
+    level: undergrad
+    program: Chemical Engineering & others
+    description: Introductory programming in Python for engineering students, focused on problem solving and scientific computing.
+    semesters: ["2024/1", "2023/2", "2020/2"]
+
+  - name: Natural Language Processing
+    level: undergrad
+    program: Computer Science
+    description: Introduction to NLP — text processing, language modeling, word representations and classic NLP tasks.
+    semesters: ["2020/2"]
+
+# Courses taught before 2020 (no semester detail)
+earlier:
+  - Programming with Python
+  - Programming with C
+  - Object-Oriented Programming
+  - Compilers
+  - Artificial Intelligence
+  - Representation Learning
