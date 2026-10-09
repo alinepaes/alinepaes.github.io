@@ -1,0 +1,49 @@
+{% comment %}
+  One project as a list row: thumbnail | acronym, name, summary, funder · period.
+  Front matter used: title ("ACRONYM: Full name"), description, img, funder, period, redirect, github.
+{% endcomment %}
+{% assign title_parts = project.title | split: ': ' %}
+{% if title_parts.size > 1 %}
+  {% assign p_acronym = title_parts[0] %}
+  {% assign p_name = project.title | remove_first: p_acronym | remove_first: ': ' %}
+{% else %}
+  {% assign p_acronym = nil %}
+  {% assign p_name = project.title %}
+{% endif %}
+{% if project.redirect %}
+  {% assign p_url = project.redirect %}
+{% else %}
+  {% assign p_url = project.url | relative_url %}
+{% endif %}
+
+<article class="project-row">
+  {% if project.img %}
+    <div class="project-thumb">
+      {% include figure.liquid loading="lazy" path=project.img sizes="140px" alt="" %}
+    </div>
+  {% endif %}
+
+  <div class="project-body">
+    <div class="project-head">
+      {% if p_acronym %}<span class="project-acronym">{{ p_acronym }}</span>{% endif %}
+      {% if project.period %}<span class="project-period">{{ project.period }}</span>{% endif %}
+    </div>
+
+    <h3 class="project-title">
+      <a href="{{ p_url }}" class="stretched-link">{{ p_name }}</a>
+    </h3>
+
+    {% if project.description and project.description != '' %}
+      <p class="project-desc">{{ project.description | strip }}</p>
+    {% endif %}
+
+    {% if project.funder or project.github %}
+      <p class="project-meta">
+        {% if project.funder %}<span><i class="fa-solid fa-landmark fa-fw"></i> {{ project.funder }}</span>{% endif %}
+        {% if project.github %}
+          <a class="project-gh" href="{{ project.github }}" title="Code repository"><i class="fa-brands fa-github"></i> Code</a>
+        {% endif %}
+      </p>
+    {% endif %}
+  </div>
+</article>
