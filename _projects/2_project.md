@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "KENSI: Knowledge-Enhanced NLP for Social Impact"
-description: >
+description: "Knowledge-enhanced NLP for socially relevant problems (misinformation, harmful content, health communication), with a focus on Brazilian Portuguese."
+funder: "FAPERJ · Young Women Researchers in Rio de Janeiro"
+period: "2024 – 2027"
 img: /assets/img/p2.png
 importance: 2
 category: Current

@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "KALM: Knowledge-Aware Language Models"
-description: >
+description: "Integrating structured and unstructured knowledge into neural language representations for more interpretable, robust and data-efficient NLP."
+funder: "CNPq · Productivity Grant"
+period: "2024 – 2027"
 img: /assets/img/p1.jpg
 importance: 1
 category: Current

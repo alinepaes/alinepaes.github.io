@@ -1,10 +1,12 @@
 ---
 layout: page
 title: "AIDA: AI for Financial Document Analysis"
-description: >
+description: "NLP and LLM methods to extract, interpret and summarize information from financial documents, focused on the Brazilian market."
+funder: "CNPq · IAIA"
+period: "2024 – 2026"
 img: /assets/img/p3.png
 importance: 3
-category: Current
+category: Past
 related_publications: false
 ---
 

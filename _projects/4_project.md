@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "LENS: Low-Resource ML for Social Impact"
-description: > 
+description: "Machine learning under scarce data, low compute and underrepresented languages, applied to health, safety and social inclusion."
+funder: "FAPERJ · Young Scientist from Rio de Janeiro"
+period: "2023 – 2026"
 img: /assets/img/p4.png
 importance: 4
 category: Current

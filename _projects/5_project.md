@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "BASE-ESG: ESG Knowledge Bases for Responsible Generative AI"
-description: >
+description: "Structured ESG knowledge bases built from public corporate disclosures to ground and evaluate generative AI systems."
+funder: "ICT Itaú"
+period: "2026 – 2027"
 img: /assets/img/p5.png
 importance: 5
 category: Current

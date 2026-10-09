@@ -5,6 +5,7 @@ description: a project with no image
 img:
 importance: 4
 category: fun
+published: false # al-folio template example, not shown
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "XMuR: eXplainable MUltilingual Reasoning."
-description: >
+title: "XMuR: eXplainable MUltilingual Reasoning"
+description: "Evaluating and explaining how LLMs reason across languages, and why they process equivalent problems differently."
+funder: "KUNUMI Labs"
+period: "2026 – 2027"
 img: /assets/img/p6.png
 importance: 6
 category: Current
