@@ -2,37 +2,36 @@
 layout: about
 title: About
 permalink: /
-subtitle: alinepaes (at) ic.uff.br 
-
+subtitle: Associate Professor of Artificial Intelligence · Institute of Computing, UFF
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_portrait.jpg
   image_circular: false # crops the image to make it circular
-  width: 100%
-  more_info: 
-     
-
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons (incl. email) at the bottom of the page
 ---
 
-I am an Associate Professor of Artificial Intelligence at the <a href="https://www.ic.uff.br/"> Institute of Computing </a> of the <a href="https://www.uff.br/"> Universidade Federal Fluminense (UFF) </a>, located in the charming city of <a href="https://g.co/kgs/4Gt8DdR"> Niterói </a>, RJ, Brazil. I am a core faculty member of the <a href="https://www.pgc.uff.br/pos-graduacao">Graduate Program in Computer Science </a> at IC/UFF — rated CAPES 7, the highest level of excellence in the country — where I lead the Machine Learning and Language Learning <a href="https://melll-uff.github.io/">(MeLLL-UFF) </a>research group. I serve as an Associate Editor for several prestigious journals, including Springer Machine Learning, Cambridge NLP, SBC JBCS, and IBERAMIA Inteligência Artificial. I have served as Program Chair for the CTDIAC 2014, ENIAC 2017, KDMiLe 2022/2023, BRACIS 2024, STIL 2026 and tutorial co-chair for EACL (2026). In 2028, I will serve as General Chair of PROPOR. In addition, I am a member of the <a href="https://www.iberamia.org/iberamia/junta-ejecutiva/"> IBERAMIA Steering Committee </a>. In the past, I served as a member of the SBC Special Committees on AI (CEIA) and NLP (CE-PLN).  
+I am an Associate Professor of Artificial Intelligence at the <a href="https://www.ic.uff.br/">Institute of Computing</a> of the <a href="https://www.uff.br/">Universidade Federal Fluminense (UFF)</a>, in the charming city of <a href="https://g.co/kgs/4Gt8DdR">Niterói</a>, RJ, Brazil. I am a core faculty member of the <a href="https://www.pgc.uff.br/pos-graduacao">Graduate Program in Computer Science</a> at IC/UFF — rated CAPES 7, the highest level of excellence in the country — where I lead the Machine Learning and Language Learning (<a href="https://melll-uff.github.io/">MeLLL-UFF</a>) research group.
 
-My work is supported by a CNPq Research Productivity Grant and a FAPERJ Young Scientist Grant. I am also a member of three National Institutes of Science and Technology (INCTs), supported by CNPq: the <a href="https://inct-iaia.vercel.app/institutions"> National Institute of AI (IAIA) </a>, <a href ="https://tildiar.dcc.ufmg.br/"> TILD-IAR (Responsible AI for Computational Linguistics, Treatment and Dissemination of Information) </a>, and IAPROBEM (AI for Social Good). Additionally, I am a member of the <a href ="https://brasileiraspln.com/"> Brasileiras em PLN (Brazilian Women in NLP)</a> group. 
+My research focuses on Machine Learning for Natural Language Processing (NLP), Relational ML, and AI for Social Impact. My current interests include:
 
-My recent research focuses on Machine Learning for Natural Language Processing (NLP), Relational ML, and AI for Social Impact. My current research interests include:
- - Multilingual Language Models and Generative AI 
- - Knowledge-Driven Transfer and Adaptation Techniques for Low-Resource NLP
- - Figurative Language
- - Text simplification
- - Generative AI for Financial Assets Analyses
- - Reasoning with NLP and Relational ML 
- - Transfer Learning for Statistical Relational Models
- - Detecting fake news, hate speech, gender bias, propaganda, and online manipulation.
+- Multilingual language models and generative AI
+- Knowledge-driven transfer and adaptation for low-resource NLP
+- Figurative language
+- Text simplification
+- Generative AI for financial asset analysis
+- Reasoning with NLP and relational ML
+- Transfer learning for statistical relational models
+- Detection of fake news, hate speech, gender bias, propaganda and online manipulation
 
-I am always open to new collaborations—please feel free to contact me if you are interested in these topics.
+**Service.** I am an Associate Editor of Springer Machine Learning, Cambridge NLP, SBC JBCS and IBERAMIA Inteligência Artificial, and a member of the <a href="https://www.iberamia.org/iberamia/junta-ejecutiva/">IBERAMIA Steering Committee</a>. I have served as Program Chair of CTDIAC 2014, ENIAC 2017, KDMiLe 2022/2023, BRACIS 2024 and STIL 2026, and as Tutorial Co-chair of EACL 2026. In 2028, I will serve as General Chair of PROPOR. I was previously a member of the SBC Special Committees on AI (CEIA) and NLP (CE-PLN).
+
+**Funding and networks.** My work is supported by a CNPq Research Productivity Grant and a FAPERJ Young Scientist Grant. I am a member of three National Institutes of Science and Technology (INCTs) funded by CNPq — the <a href="https://inct-iaia.vercel.app/institutions">National Institute of AI (IAIA)</a>, <a href="https://tildiar.dcc.ufmg.br/">TILD-IAR</a> (Responsible AI for Computational Linguistics, Treatment and Dissemination of Information) and IAPROBEM (AI for Social Good) — and of the <a href="https://brasileiraspln.com/">Brasileiras em PLN</a> (Brazilian Women in NLP) group.
+
+I am always open to new collaborations — please feel free to contact me if you are interested in these topics.
 
 {% if site.announcements.enabled %}
 
