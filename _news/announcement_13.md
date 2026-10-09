@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visit from the Consulate-General of Japan to IC/UFF
-date: 2026-28-09 10:00:00 -0400
+date: 2026-09-28 10:00:00 -0400
 inline: true
 related_posts: false
 ---
