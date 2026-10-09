@@ -1,0 +1,161 @@
+// Teaching page — course cards grouped by level
+
+.teaching {
+  --ug-color: #2a7f8f; // undergraduate accent (graduate uses the theme color)
+}
+
+html[data-theme="dark"] .teaching {
+  --ug-color: #f29105; // theme orange, distinct from the dark-mode cyan
+}
+
+// ---- section heading ----
+.teaching-heading {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 0.5rem;
+  margin: 2.25rem 0 1rem;
+
+  &:first-child {
+    margin-top: 0.5rem;
+  }
+}
+
+// ---- course cards ----
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.course-card {
+  --accent: var(--global-theme-color);
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1.1rem 1.1rem;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--accent);
+  border-radius: 8px;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  }
+
+  &.course-undergrad {
+    --accent: var(--ug-color);
+  }
+}
+
+.course-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.35rem;
+}
+
+.course-level {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.course-count {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--global-text-color-light);
+  font-variant-numeric: tabular-nums;
+}
+
+h3.course-name {
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.3;
+  margin: 0 0 0.5rem;
+  color: var(--global-text-color);
+}
+
+.course-program {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  margin: 0.1rem 0 0.6rem;
+}
+
+.course-desc {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--global-text-color);
+  opacity: 0.85;
+  margin: 0 0 0.9rem;
+  flex: 1 1 auto;
+}
+
+.course-semesters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    font-size: 0.72rem;
+    line-height: 1;
+    padding: 0.3rem 0.5rem;
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+
+    &.remote {
+      border-style: dashed;
+      opacity: 0.75;
+    }
+  }
+}
+
+// ---- before 2020 ----
+.course-earlier {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+
+  span {
+    font-size: 0.85rem;
+    padding: 0.35rem 0.75rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    color: var(--global-text-color);
+  }
+}
+
+.teaching-note {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.78rem;
+  color: var(--global-text-color-light);
+  margin-top: 2rem;
+}
+
+.legend-remote {
+  display: inline-block;
+  width: 1.6rem;
+  height: 0.9rem;
+  border: 1px dashed var(--global-text-color-light);
+  border-radius: 999px;
+}
+
+// ---- small screens ----
+@media (max-width: 575.98px) {
+  .course-grid {
+    grid-template-columns: 1fr;
+  }
+}
