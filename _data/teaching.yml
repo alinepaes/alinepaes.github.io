@@ -41,7 +41,7 @@ courses:
     level: undergrad
     program: Computer Science
     description: Introductory programming in C — control flow, functions, arrays, pointers, memory and basic data structures.
-    semesters: ["2025/2", "2025/1", "2024/2", "2024/1", "2020/1"]
+    semesters: ["2026/2", "2025/2", "2025/1", "2024/2", "2024/1", "2020/1"]
 
   - name: Artificial Intelligence
     level: undergrad
@@ -53,7 +53,7 @@ courses:
     level: undergrad
     program: Chemical Engineering & others
     description: Introductory programming in Python for engineering students, focused on problem solving and scientific computing.
-    semesters: ["2024/1", "2023/2", "2020/2"]
+    semesters: ["2026/2", "2024/1", "2023/2", "2020/2"]
 
   - name: Natural Language Processing
     level: undergrad
