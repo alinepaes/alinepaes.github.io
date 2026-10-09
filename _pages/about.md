@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor of Artificial Intelligence · Institute of Computing, UFF
+subtitle: 
 
 profile:
   align: right
