@@ -1,0 +1,340 @@
+/*******************************************************************************
+ * Service page — mirrors the look of _teaching.scss
+ ******************************************************************************/
+
+.service {
+  --accent: var(--global-theme-color);
+  --svc-muted: var(--global-text-color-light);
+  --svc-line: var(--global-divider-color);
+}
+
+// ---- jump links ----
+.service-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.25rem 0 0.5rem;
+
+  a {
+    font-size: 0.78rem;
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--svc-line);
+    border-radius: 999px;
+    color: var(--global-text-color);
+    text-decoration: none;
+    transition: border-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+  }
+}
+
+// ---- section heading (same as .teaching-heading) ----
+.service-heading {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--svc-muted);
+  border-bottom: 1px solid var(--svc-line);
+  padding-bottom: 0.5rem;
+  margin: 2.5rem 0 1rem;
+  scroll-margin-top: 5rem;
+}
+
+// ---- cards ----
+.svc-card {
+  padding: 1rem 1.1rem;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--svc-line);
+  border-radius: 8px;
+
+  &.svc-accent {
+    border-top: 3px solid var(--accent);
+  }
+}
+
+.svc-card-title {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 0.6rem;
+}
+
+.service-cols,
+.svc-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.svc-grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.svc-kicker {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.3rem;
+}
+
+h3.svc-name {
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.3;
+  margin: 0;
+  color: var(--global-text-color);
+}
+
+.svc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: grid;
+    grid-template-columns: 6.5rem 1fr;
+    gap: 0.75rem;
+    font-size: 0.88rem;
+    line-height: 1.4;
+    padding: 0.45rem 0;
+    border-top: 1px solid var(--svc-line);
+
+    &:first-child {
+      border-top: 0;
+      padding-top: 0;
+    }
+  }
+
+  strong {
+    font-weight: 500;
+  }
+}
+
+.svc-year {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--svc-muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.svc-muted {
+  font-size: 0.8rem;
+  color: var(--svc-muted);
+}
+
+// ---- year rows (timeline) ----
+.svc-timeline {
+  border-left: 2px solid var(--svc-line);
+  margin-left: 0.25rem;
+}
+
+.svc-row {
+  display: grid;
+  grid-template-columns: 4rem 1fr;
+  gap: 0.75rem;
+  padding: 0.55rem 0;
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -7px;
+    top: 0.95rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--global-bg-color);
+    border: 2px solid var(--accent);
+  }
+}
+
+.svc-row-year {
+  padding-left: 1rem;
+  padding-top: 0.2rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--global-text-color);
+  font-variant-numeric: tabular-nums;
+}
+
+.svc-row-body {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.svc-org li {
+  font-size: 0.9rem;
+  line-height: 1.45;
+  padding: 0.2rem 0;
+}
+
+.svc-role {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-right: 0.35rem;
+}
+
+// ---- chips (same pill as .course-semesters) ----
+.svc-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  padding-top: 0.1rem;
+
+  li {
+    font-size: 0.75rem;
+    line-height: 1;
+    padding: 0.32rem 0.6rem;
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    color: var(--accent);
+
+    &.reviewer {
+      border-style: dashed;
+      opacity: 0.75;
+    }
+  }
+
+  &.svc-chips-plain li {
+    border-color: var(--svc-line);
+    color: var(--global-text-color);
+    border-radius: 6px;
+    line-height: 1.25;
+  }
+}
+
+.svc-legend,
+.svc-note {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  font-size: 0.78rem;
+  color: var(--svc-muted);
+  margin: 0.75rem 0 0;
+}
+
+.svc-note {
+  margin: -0.4rem 0 0.75rem;
+}
+
+.svc-chip-sample {
+  display: inline-block;
+  width: 1.6rem;
+  height: 0.9rem;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  margin-left: 0.6rem;
+
+  &:first-child {
+    margin-left: 0;
+  }
+
+  &.reviewer {
+    border-style: dashed;
+    opacity: 0.75;
+  }
+}
+
+// ---- examination committees ----
+.svc-exam {
+  border-top: 3px solid var(--accent);
+  display: flex;
+  flex-direction: column;
+}
+
+.svc-exam-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.svc-exam-num {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.svc-exam-since {
+  font-size: 0.75rem;
+  color: var(--svc-muted);
+}
+
+h3.svc-exam-type {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 0.35rem 0 0.7rem;
+  color: var(--global-text-color);
+}
+
+.svc-inst {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.72rem;
+    padding: 0.22rem 0.5rem;
+    border: 1px solid var(--svc-line);
+    border-radius: 6px;
+    color: var(--global-text-color);
+
+    span {
+      font-weight: 600;
+      color: var(--svc-muted);
+      font-variant-numeric: tabular-nums;
+    }
+  }
+}
+
+// ---- small screens ----
+@media (max-width: 767.98px) {
+  .svc-grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 575.98px) {
+  .service-cols,
+  .svc-grid,
+  .svc-grid-3 {
+    grid-template-columns: 1fr;
+  }
+
+  .svc-list li {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+  }
+
+  .svc-row {
+    grid-template-columns: 1fr;
+    gap: 0.3rem;
+  }
+
+  .svc-row-body {
+    padding-left: 1rem;
+  }
+}
