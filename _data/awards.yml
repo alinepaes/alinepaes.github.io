@@ -1,0 +1,133 @@
+# Awards & Distinctions page data (rendered by _pages/awards.md, styles in _sass/_awards.scss).
+# Source: Currículo Lattes, generated 09/10/2026. Lists are newest first; main lists cover 2017 onward.
+# rank: gold = best / 1st place, silver = 2nd place, bronze = 3rd place, mention = honorable mention / finalist
+
+fellowships:
+  - agency: CNPq
+    title: Research Productivity Fellowship (PQ-2)
+    period: 2024–present
+    icon: fa-solid fa-flask
+    project: Knowledge-Enriched Representation Learning for Natural Language — Algorithms and Applications
+  - agency: FAPERJ
+    title: Young Woman Scientist (Jovem Cientista Mulher)
+    period: "2023"
+    icon: fa-solid fa-venus
+    note: Inaugural FAPERJ call for young women scientists at research institutions in Rio de Janeiro
+    project: Resource-Constrained Machine Learning for Positive Social Impact
+  - agency: FAPERJ
+    title: Young Scientist of Our State (Jovem Cientista do Nosso Estado)
+    period: "2022"
+    icon: fa-solid fa-star
+    project: Knowledge-Enhanced Machine Learning for Natural Language for Positive Social Impact
+  - agency: FAPERJ
+    title: Young Scientist of Our State (Jovem Cientista do Nosso Estado)
+    period: "2019"
+    icon: fa-solid fa-star
+    project: Explainable AI for Social Impact with Adaptive Representation Learning
+  - agency: CAPES-PrInt
+    title: Visiting Professor, NLP Group, University of Sheffield (UK)
+    period: "2023"
+    icon: fa-solid fa-plane-departure
+
+paper_awards:
+  - year: 2025
+    items:
+      - rank: gold
+        award: Best Paper — Track on Social Network and Media
+        venue: ACM SAC 2025
+        paper: "Language Flavors in the Lusophone World: A BERT-Based Social Media Study of Portuguese in Brazil, Portugal, and Mozambique"
+      - rank: gold
+        award: Best Paper
+        venue: KDMiLe 2025
+        paper: "When Modernity Enhances Tradition and Specialization: A BERT Ensemble for Temporal Financial Argument Detection"
+      - rank: bronze
+        award: Third Best Paper
+        venue: KDMiLe 2025
+        paper: "Opportunities vs. Risks: Exploring Automatic Annotation of Financial Polarity Biases via Large Language Models"
+  - year: 2024
+    items:
+      - rank: gold
+        award: TCCLS Best Paper Award
+        venue: IEEE CBMS 2024
+        paper: "Aggregating Embeddings from Image and Radiology Reports for Multimodal Chest-CT Retrieval"
+      - rank: gold
+        award: Best Paper
+        venue: BreSci 2024 — Brazilian e-Science Workshop
+        paper: "Busca e Recuperação de Workflows em Repositórios por meio de Transformers e Modelagem de Tópicos"
+      - rank: silver
+        award: Best Paper, 2nd place
+        venue: KDMiLe 2024
+        paper: "Multiple Voices, Greater Power: A Strategy for Combining Language Models to Combat Hate Speech"
+  - year: 2023
+    items:
+      - rank: mention
+        award: Honorable Mention
+        venue: Dataset Showcase Workshop (SBC)
+        paper: "LHTR.br: em Busca de um Conjunto Anotado de Textos Manuscritos em Português"
+  - year: 2022
+    items:
+      - rank: silver
+        award: Best Poster, 2nd place
+        venue: LatinX in AI
+        paper: "A Modality-level Explainable Framework for Misinformation Checking in Social Networks"
+  - year: 2021
+    items:
+      - rank: gold
+        award: Best Machine Learning Journal Paper Award
+        venue: ILP 2021 / IJCLR 2021
+      - rank: silver
+        award: Best Paper, 2nd place
+        venue: KDMiLe 2021
+        paper: "Enriching Datasets for Sentiment Analysis in Tweets with Instance Selection"
+
+student_awards:
+  - year: 2025
+    rank: mention
+    award: Honorable Mention, Thesis and Dissertation Contest (CTD SBGames)
+    student: Sidney Melo
+    level: PhD thesis
+    role: Advisor
+  - year: 2020
+    rank: gold
+    award: Microsoft Latin America PhD Award — one of three winners
+    student: Jéssica Soares dos Santos
+    level: PhD
+    role: Advisor
+  - year: 2020
+    rank: silver
+    award: Second best MSc dissertation, CTDIAC 2020 (SBC)
+    student: Rodrigo Azevedo Santos
+    level: MSc dissertation
+    role: External advisor
+  - year: 2020
+    rank: mention
+    award: Top 10 MSc dissertations, SBC Thesis and Dissertation Contest (CTD)
+    student: Rodrigo Azevedo Santos
+    level: MSc dissertation
+    role: External advisor
+  - year: 2020
+    rank: bronze
+    award: Third best MSc dissertation, CTD-Jogos 2020 (SBC)
+    student: Sidney Araujo Melo
+    level: MSc dissertation
+    role: Co-advisor
+
+teaching_honors:
+  - year: 2019
+    award: Class sponsor (Paraninfa), Computer Science class of 2018/2
+    org: UFF
+  - year: 2018
+    award: Honored professor, Computer Science class of 2018/1
+    org: UFF
+
+earlier:
+  - year: 2015
+    award: Best Paper, CARLA 2015 — Latin America High Performance Computing Conference
+  - year: 2015
+    award: Honored professor, Computer Science class of 2014/2, UFF
+  - year: 2012
+    award: First place, VIII Contest of Theses in Artificial Intelligence (CTDIA 2012) — PhD thesis
+  - year: 2009
+    award: Among the four best papers, ENIA 2009 — "Revisando Redes Bayesianas através da Introdução de Variáveis Não-observadas"
+  - year: 2007
+    award: Best Paper, ENIA 2007 — "Revisando Teorias Lógicas de Primeira-ordem a partir de Exemplos usando Busca Local Estocástica"
