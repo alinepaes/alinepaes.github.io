@@ -1,0 +1,456 @@
+# Service page data (rendered by _pages/service.md, styles in _sass/_service.scss).
+# Source: Currículo Lattes, generated 09/10/2026. Lists are newest first and cover 2017 onward (last 10 years).
+# program_committees: role "pc" = program committee member, "reviewer" = reviewer/sub-reviewer.
+# examination: only counts and institutions (no candidate names).
+
+advisory:
+- year: '2025'
+  role: Advisory committee member
+  org: CAPES — Coordination for the Improvement of Higher Education Personnel
+- year: '2024'
+  role: Judging committee, CAPES Thesis Award 2024 (Computer Science)
+  org: CAPES — Coordination for the Improvement of Higher Education Personnel
+- year: '2024'
+  role: Co-author, Brazilian AI Plan of the Brazilian Computer Society
+  org: SBC — Sociedade Brasileira de Computação
+grant_review:
+- period: 2021–present
+  org: CNPq — National Council for Scientific and Technological Development
+- period: 2021–present
+  org: FAPERJ — Rio de Janeiro State Research Foundation
+- period: '2023'
+  org: Bill & Melinda Gates Foundation
+editorial:
+- journal: Journal of Natural Language Processing
+  since: 2025
+- journal: Journal of the Brazilian Computer Society
+  since: 2022
+- journal: Machine Learning
+  since: 2021
+- journal: Inteligencia Artificial (Ibero-American Journal of AI)
+  since: 2020
+organization:
+- year: 2026
+  items:
+  - role: General chair
+    event: 17th Symposium in Information and Human Language Technology (STIL 2026)
+  - role: Co-chair
+    event: Best PhD/MSc Dissertation Award, PROPOR 2026
+- year: 2025
+  items:
+  - role: Tutorial co-chair
+    event: EACL 2026 — European Chapter of the ACL
+- year: 2024
+  items:
+  - role: Program chair
+    event: 34th Brazilian Conference on Intelligent Systems (BRACIS 2024)
+  - role: Program chair
+    event: 1st Latin American Ethics on Artificial Intelligence (LAAI-Ethics 2024)
+  - role: Organizer
+    event: First Workshop on NLP for Indigenous Languages of Lusophone Countries
+  - role: Organizer
+    event: CRAFT session at FAccT 2024 — Towards Responsible Non-extractive AI Research and Collaboration with Indigenous Communities
+- year: 2023
+  items:
+  - role: General chair
+    event: 11th Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2023)
+  - role: Program chair
+    event: Chicken-egg HPC/DL Workshop 2023
+- year: 2022
+  items:
+  - role: Program co-chair
+    event: 10th Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2022)
+  - role: Executive organizing committee (scientific program)
+    event: 42nd Congress of the Brazilian Computer Society (CSBC 2022)
+  - role: Organizer
+    event: Brazilian Workshop on Integration of Databases and Artificial Intelligence
+- year: 2018
+  items:
+  - role: Track chair (Advances on AI)
+    event: 15th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2018)
+- year: 2017
+  items:
+  - role: Program chair
+    event: 14th National Meeting on Artificial and Computational Intelligence (ENIAC 2017)
+program_committees:
+- year: 2026
+  venues:
+  - name: BRACIS
+    role: pc
+  - name: CTD-SBC
+    role: pc
+  - name: CTDIAC
+    role: pc
+  - name: ENIAC
+    role: pc
+  - name: ARR
+    role: reviewer
+- year: 2025
+  venues:
+  - name: BRACIS
+    role: pc
+  - name: ECAI
+    role: pc
+  - name: ENIAC
+    role: pc
+  - name: IJCLR
+    role: pc
+  - name: KDMiLe
+    role: pc
+  - name: KR
+    role: pc
+  - name: RANLP
+    role: pc
+  - name: ARR
+    role: reviewer
+  - name: ECML-PKDD Journal Track
+    role: reviewer
+  - name: IJCNN
+    role: reviewer
+- year: 2024
+  venues:
+  - name: DeLTA
+    role: pc
+  - name: ECAI
+    role: pc
+  - name: IBERAMIA
+    role: pc
+  - name: KR
+    role: pc
+  - name: LREC-COLING
+    role: pc
+  - name: PROPOR
+    role: pc
+  - name: STIL
+    role: pc
+  - name: ARR
+    role: reviewer
+- year: 2023
+  venues:
+  - name: BRACIS
+    role: pc
+  - name: DeLTA
+    role: pc
+  - name: IJCLR
+    role: pc
+  - name: KR
+    role: pc
+  - name: NLP-OSS @ EMNLP
+    role: pc
+  - name: SBCAS
+    role: pc
+  - name: STIL
+    role: pc
+  - name: EACL
+    role: reviewer
+- year: 2022
+  venues:
+  - name: AAAI
+    role: pc
+  - name: BRACIS
+    role: pc
+  - name: CTDIAC
+    role: pc
+  - name: DEXEA @ SBBD
+    role: pc
+  - name: GLB Workshop
+    role: pc
+  - name: IBERAMIA
+    role: pc
+  - name: ILP
+    role: pc
+  - name: KR
+    role: pc
+  - name: LREC
+    role: pc
+  - name: PROPOR
+    role: pc
+  - name: ARR
+    role: reviewer
+  - name: IPDPS
+    role: reviewer
+- year: 2021
+  venues:
+  - name: AAAI
+    role: pc
+  - name: BRACIS
+    role: pc
+  - name: ILP
+    role: pc
+  - name: KDMiLe
+    role: pc
+  - name: SIBGRAPI
+    role: pc
+  - name: UNIRIO Undergrad. Research Conf.
+    role: pc
+- year: 2020
+  venues:
+  - name: AAAI
+    role: pc
+  - name: BRACIS
+    role: pc
+  - name: CTDIAC
+    role: pc
+  - name: FATES @ WWW
+    role: pc
+  - name: ICTAI
+    role: pc
+  - name: IJCAI
+    role: pc
+  - name: ILP
+    role: pc
+  - name: SC
+    role: reviewer
+- year: 2019
+  venues:
+  - name: AAAI
+    role: pc
+  - name: BRACIS
+    role: pc
+  - name: BraSNAM
+    role: pc
+  - name: FATES @ WWW
+    role: pc
+  - name: HPML Workshop
+    role: pc
+  - name: IJCAI
+    role: pc
+  - name: ILP
+    role: pc
+  - name: SIBGRAPI
+    role: pc
+- year: 2018
+  venues:
+  - name: AAAI
+    role: pc
+  - name: BRACIS
+    role: pc
+  - name: BraSNAM
+    role: pc
+  - name: CTDIAC
+    role: pc
+  - name: DTL Workshop
+    role: pc
+  - name: ERCAS-RJ
+    role: pc
+  - name: HPML Workshop
+    role: pc
+  - name: IJCAI
+    role: pc
+  - name: ILP
+    role: pc
+  - name: KDMiLe
+    role: pc
+  - name: SIBGRAPI
+    role: pc
+  - name: WiNDS @ WWW
+    role: pc
+- year: 2017
+  venues:
+  - name: BRACIS
+    role: pc
+  - name: ILP
+    role: pc
+  - name: PLP Workshop
+    role: pc
+  - name: SDM
+    role: pc
+  - name: SIBGRAPI
+    role: pc
+journals:
+- year: 2026
+  journals:
+  - Neurosymbolic Artificial Intelligence
+- year: 2025
+  journals:
+  - Data Mining and Knowledge Discovery
+- year: 2024
+  journals:
+  - ACM Transactions on Multimedia Computing, Communications, and Applications
+  - Computational Linguistics
+  - Online Social Networks and Media
+- year: 2023
+  journals:
+  - Journal of Internet Services and Applications
+- year: 2022
+  journals:
+  - ACM Computing Surveys
+  - Applied Soft Computing
+  - Expert Systems with Applications
+  - Government Information Quarterly
+  - IEEE Transactions on Emerging Topics in Computing
+  - Intelligenza Artificiale
+  - Journal of King Saud University – Computer and Information Sciences
+  - Knowledge and Information Systems
+  - Knowledge-Based Systems
+  - Quantitative InfraRed Thermography Journal
+- year: 2021
+  journals:
+  - AI Communications
+  - Entropy
+  - Information
+  - Journal of Information and Data Management (JIDM)
+  - Journal of Parallel and Distributed Computing
+  - Language Resources and Evaluation
+- year: 2020
+  journals:
+  - Frontiers in Artificial Intelligence
+  - IEEE Transactions on Knowledge and Data Engineering
+  - Information Fusion
+  - Information Retrieval
+  - PeerJ Computer Science
+- year: 2019
+  journals:
+  - Ad Hoc Networks
+  - Information Systems
+- year: 2018
+  journals:
+  - Computational Intelligence
+- year: 2017
+  journals:
+  - Computers & Graphics
+  - Frontiers in Robotics and AI
+- year: Earlier
+  journals:
+  - Frontiers in Machine Learning and Artificial Intelligence
+  - International Journal of Approximate Reasoning
+  - Machine Learning
+examination:
+- type: PhD defenses
+  count: 42
+  institutions:
+  - name: UFF
+    count: 22
+  - name: UFRJ
+    count: 4
+  - name: USP
+    count: 3
+  - name: UNICAMP
+    count: 2
+  - name: CEFET/RJ
+    count: 1
+  - name: IME
+    count: 1
+  - name: PUC-Rio
+    count: 1
+  - name: PUCRS
+    count: 1
+  - name: U. Manchester
+    count: 1
+  - name: UFBA
+    count: 1
+  - name: UFMG
+    count: 1
+  - name: UFRGS
+    count: 1
+  - name: UFSCar
+    count: 1
+  - name: UNIFOR
+    count: 1
+  - name: UnB
+    count: 1
+- type: PhD qualifying exams
+  count: 37
+  institutions:
+  - name: UFF
+    count: 16
+  - name: UFRJ
+    count: 5
+  - name: USP
+    count: 4
+  - name: UnB
+    count: 2
+  - name: CEFET/RJ
+    count: 1
+  - name: PUC-Rio
+    count: 1
+  - name: PUCRS
+    count: 1
+  - name: UERJ
+    count: 1
+  - name: UFBA
+    count: 1
+  - name: UFES
+    count: 1
+  - name: UFMG
+    count: 1
+  - name: UFRGS
+    count: 1
+  - name: UFSCar
+    count: 1
+  - name: UNIRIO
+    count: 1
+- type: MSc defenses
+  count: 57
+  institutions:
+  - name: UFF
+    count: 26
+  - name: USP
+    count: 9
+  - name: UFRJ
+    count: 6
+  - name: CEFET/RJ
+    count: 2
+  - name: UFMG
+    count: 2
+  - name: UFRGS
+    count: 2
+  - name: UNIRIO
+    count: 2
+  - name: IME
+    count: 1
+  - name: PUC Minas
+    count: 1
+  - name: PUCRS
+    count: 1
+  - name: UERJ
+    count: 1
+  - name: UFBA
+    count: 1
+  - name: UFC
+    count: 1
+  - name: UFSCar
+    count: 1
+  - name: UNIFOR
+    count: 1
+- type: MSc qualifying exams
+  count: 11
+  institutions:
+  - name: USP
+    count: 4
+  - name: UFBA
+    count: 2
+  - name: UERJ
+    count: 1
+  - name: UFMS
+    count: 1
+  - name: UFSCar
+    count: 1
+  - name: UNESP
+    count: 1
+  - name: UNIRIO
+    count: 1
+- type: Undergraduate theses
+  count: 42
+  institutions:
+  - name: UFF
+    count: 39
+  - name: UERJ
+    count: 2
+  - name: UFRJ
+    count: 1
+- type: Faculty hiring committees
+  count: 8
+  institutions:
+  - name: UFF
+    count: 2
+  - name: USP
+    count: 2
+  - name: UFBA
+    count: 1
+  - name: UFRGS
+    count: 1
+  - name: UFRJ
+    count: 1
+  - name: UFRN
+    count: 1
