@@ -16,7 +16,7 @@ social: true # includes social icons (incl. email) at the bottom of the page
 
 I am an Associate Professor of Artificial Intelligence at the <a href="https://www.ic.uff.br/">Institute of Computing</a> of the <a href="https://www.uff.br/">Universidade Federal Fluminense (UFF)</a>, in the charming city of <a href="https://g.co/kgs/4Gt8DdR">Niterói</a>, RJ, Brazil. I am a core faculty member of the <a href="https://www.pgc.uff.br/pos-graduacao">Graduate Program in Computer Science</a> at IC/UFF — rated CAPES 7, the highest level of excellence in the country — where I lead the Machine Learning and Language Learning (<a href="https://melll-uff.github.io/">MeLLL-UFF</a>) research group. I currently also serve as Deputy Coordinator of the Undergraduate Program in Artificial Intelligence and Data Science.
 
-My research focuses on Machine Learning for Natural Language Processing (NLP), Relational ML, and AI for Social Impact. My current interests include:
+My research focuses on Relational Machine Learning, Natural Language Processing, and AI for Social Impact. My current interests include:
 
 - Multilingual language models and generative AI
 - Knowledge-driven transfer and adaptation for low-resource NLP
