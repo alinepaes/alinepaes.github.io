@@ -5,25 +5,17 @@
 fellowships:
   - agency: CNPq
     title: Research Productivity Fellowship (PQ-2)
-    period: 2024–present
+    period: 2020–present
     icon: fa-solid fa-flask
-    project: Knowledge-Enriched Representation Learning for Natural Language — Algorithms and Applications
+  - agency: FAPERJ
+    title: Young Scientist of Our State (Jovem Cientista do Nosso Estado)
+    period: "2019-present"
+    icon: fa-solid fa-star
   - agency: FAPERJ
     title: Young Woman Scientist (Jovem Cientista Mulher)
     period: "2023"
     icon: fa-solid fa-venus
     note: Inaugural FAPERJ call for young women scientists at research institutions in Rio de Janeiro
-    project: Resource-Constrained Machine Learning for Positive Social Impact
-  - agency: FAPERJ
-    title: Young Scientist of Our State (Jovem Cientista do Nosso Estado)
-    period: "2022"
-    icon: fa-solid fa-star
-    project: Knowledge-Enhanced Machine Learning for Natural Language for Positive Social Impact
-  - agency: FAPERJ
-    title: Young Scientist of Our State (Jovem Cientista do Nosso Estado)
-    period: "2019"
-    icon: fa-solid fa-star
-    project: Explainable AI for Social Impact with Adaptive Representation Learning
   - agency: CAPES-PrInt
     title: Visiting Professor, NLP Group, University of Sheffield (UK)
     period: "2023"
