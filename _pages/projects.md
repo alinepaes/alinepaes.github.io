@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Funded research projects I lead.
+description: Funded research projects I lead (from 2023 onwards).
 nav: true
 nav_order: 3
 display_categories: [Current, Past]
