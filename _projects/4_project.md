@@ -6,7 +6,7 @@ funder: "FAPERJ · Young Scientist from Rio de Janeiro"
 period: "2023 – 2026"
 img: /assets/img/p4.png
 importance: 4
-category: Current
+category: Past
 related_publications: false
 ---
 
