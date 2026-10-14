@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Personalized Investment Advisory Focused on ESG Practices Using Generative AI"
+title: "ESG-GenAI: Personalized Investment Advisory Focused on ESG Practices Using Generative AI"
 description: "Investigates the integration of small and large language models (SLMs and LLMs) to support the generation of accurate, reliable, and personalized financial analyses aligned with ESG principles."
 funder: "ICT Itaú"
 period: "2025 – 2026"
