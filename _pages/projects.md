@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Funded research projects I lead or take part in.
+description: Funded research projects I lead.
 nav: true
 nav_order: 3
 display_categories: [Current, Past]
