@@ -9,19 +9,20 @@ category: Past
 related_publications: false
 ---
 
-Construction of ESG Knowledge Bases for the Responsible Training of Generative AI Systems from Public Disclosures (**BASE-ESG**) is a research project dedicated to the construction of **structured ESG (Environmental, Social, and Governance) knowledge bases** derived from public corporate disclosures, with the goal of enabling the responsible training and evaluation of generative AI systems in the sustainability domain.
+Personalized Investment Advisory Centered on ESG Practices Using Generative AI is a research project focused on the integration of Small Language Models (SLMs) and Large Language Models (LLMs) to support the generation of accurate, reliable, and personalized financial analyses aligned with Environmental, Social, and Governance (ESG) principles.
 
-As ESG reporting becomes increasingly central to corporate accountability and investment decisions, the volume and complexity of relevant textual disclosures — including sustainability reports, regulatory filings, and stakeholder communications — has grown substantially. This project addresses the need for high-quality, structured knowledge resources that can ground generative AI models in accurate, verifiable ESG information, reducing hallucination and improving reliability in this high-stakes domain.
+As financial markets increasingly incorporate ESG considerations into investment decisions, the demand for reliable, personalized, and context-aware financial analyses continues to grow. This project investigates how SLMs and LLMs can be efficiently adapted and combined to assist financial experts in producing high-quality reports grounded in relevant financial data. By leveraging the complementary strengths of smaller models, which enable deployment in secure and controlled environments, and larger models, which offer advanced language generation and reasoning capabilities, the project aims to develop robust and computationally efficient solutions that minimize hallucinations, ensure data privacy, and support informed investment decisions.
 
 
 
 ## Objectives
 
-- Extract and structure ESG-relevant information from public corporate disclosures using NLP techniques
-- Build annotated datasets and knowledge bases covering environmental, social, and governance dimensions
-- Develop and evaluate retrieval-augmented and knowledge-grounded generative AI systems for ESG question answering and analysis
-- Promote responsible AI practices in the financial and sustainability sectors
+- Investigate and evaluate the capabilities of SLMs and LLMs for financial text generation and analysis in Portuguese.
+- Develop efficient adaptation techniques to improve the domain-specific performance and contextual accuracy of smaller language models.
+- Explore strategies for integrating SLMs and LLMs to generate coherent, factually grounded, and personalized financial reports while minimizing hallucinations.
+- Design orchestration and information retrieval mechanisms to extract, aggregate, and incorporate relevant financial and ESG data into generated analyses.
+- Evaluate the computational efficiency, reliability, and sustainability of the proposed solutions, emphasizing secure deployment and responsible AI practices.
 
 ## Funding & Support
 
-This project is financed by **ICT Itaú**, covering the period from January 2026 to December 2027.
+This project is financed by **ICT Itaú**, covering the period from January 2025 to December 2025.
