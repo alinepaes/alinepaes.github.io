@@ -5,7 +5,7 @@ description: "Investigates the integration of small and large language models (S
 funder: "ICT Itaú"
 period: "2025 – 2026"
 img: /assets/img/p5.png
-importance: 5
+importance: 8
 category: Past
 related_publications: false
 ---
