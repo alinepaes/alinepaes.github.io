@@ -30,4 +30,4 @@ As ESG reporting becomes increasingly central to corporate accountability and in
 
 ## Funding & Support
 
-This project is financed by **ICT Itaú**, covering the period from January 2026 to December 2027.
+This project is financed by **ICT Itaú**, covering the period from January 2026 to December 2026.
