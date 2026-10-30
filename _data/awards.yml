@@ -24,7 +24,7 @@ fellowships:
 paper_awards:
   - year: 2026
     items:
-     - rank: bronze
+      - rank: bronze
         award: Third Best Paper 
         venue: KDMiLe 2026
         paper: "Classical Tricks for Better Topics: Can Traditional Text Mining Techniques Improve Generative Topic Modeling?"
