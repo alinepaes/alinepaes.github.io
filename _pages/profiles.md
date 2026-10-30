@@ -16,7 +16,7 @@ profiles_dsc:
       <p> <a href="https://github.com/Allrthur"> Arthur Bittencourt  </a></p>
       <p> Data Selection for Continual Multilingue Learning </p>
 
-  - image: camila.jpeg
+  - image: camila.png
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/camila-cg"> Camila Gusmão </a></p>
@@ -58,7 +58,7 @@ profiles_dsc:
       <p> <a href="https://github.com/osnieltx"> Osniel Teixeira </a></p>
       <p> Algorithmic Reasoning </p>
 
-  - image: female_student.jpg
+  - image: alegomes.png
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/alegomesbr"> Alessandra Gomes </a></p>
@@ -121,6 +121,12 @@ profiles_msc:
     more_info: >
       <p> <a href="https://github.com/marinaramalhete"> Marina Ramalhete  </a></p>
       <p> Entity-anchoring text evaluation </p>
+
+  - image: thiago_ouverney.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> <a href="https://github.com/marinaramalhete"> Thiago A. Ouverney  </a></p>
+      <p> Post-training with RLVR </p>
       
 
 
@@ -182,7 +188,7 @@ profiles_undergrad:
       <p> <a href="https://github.com/maduVianna"> Maria Eduarda Vianna </a></p>
       <p> ESG Q&A </p>
       
-  - image: bruna.gif
+  - image: bruna.png
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/bluizads"> Bruna Luiza Santos </a></p>
