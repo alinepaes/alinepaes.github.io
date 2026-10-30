@@ -22,6 +22,12 @@ fellowships:
     icon: fa-solid fa-plane-departure
 
 paper_awards:
+  - year: 2026
+    items:
+     - rank: bronze
+        award: Third Best Paper 
+        venue: KDMiLe 2026
+        paper: "Classical Tricks for Better Topics: Can Traditional Text Mining Techniques Improve Generative Topic Modeling?"
   - year: 2025
     items:
       - rank: gold
@@ -73,6 +79,12 @@ paper_awards:
         paper: "Enriching Datasets for Sentiment Analysis in Tweets with Instance Selection"
 
 student_awards:
+  - year: 2026
+    rank: bronze
+    award: AI Thesis and Dissertation Contest (CTDIAC)
+    student: Gabriel Assis
+    level: MSc dissertation
+    role: Advisor
   - year: 2025
     rank: mention
     award: Honorable Mention, Thesis and Dissertation Contest (CTD SBGames)
@@ -90,13 +102,13 @@ student_awards:
     award: Second best MSc dissertation, CTDIAC 2020 (SBC)
     student: Rodrigo Azevedo Santos
     level: MSc dissertation
-    role: External advisor
+    role: Co-advisor
   - year: 2020
     rank: mention
     award: Top 10 MSc dissertations, SBC Thesis and Dissertation Contest (CTD)
     student: Rodrigo Azevedo Santos
     level: MSc dissertation
-    role: External advisor
+    role: Co-advisor
   - year: 2020
     rank: bronze
     award: Third best MSc dissertation, CTD-Jogos 2020 (SBC)
