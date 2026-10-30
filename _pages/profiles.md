@@ -179,13 +179,13 @@ profiles_undergrad:
   - image: madu.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> <a href="https://github.com/orgs/Melllitau/people/maduVianna"> Maria Eduarda Vianna </a></p>
+      <p> <a href="https://github.com/maduVianna"> Maria Eduarda Vianna </a></p>
       <p> ESG Q&A </p>
       
-  - image: isadireito.jpg
+  - image: bruna.gif
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> <a href="https://github.com/orgs/MeLLL-UFF/people/isadireito"> Isabella Direito </a></p>
+      <p> <a href="https://github.com/bluizads"> Bruna Luiza Santos </a></p>
       <p> Women health Q&A </p>
 
      
