@@ -16,7 +16,7 @@ profiles_dsc:
       <p> <a href="https://github.com/Allrthur"> Arthur Bittencourt  </a></p>
       <p> Data Selection for Continual Multilingue Learning </p>
 
-  - image: camila.png
+  - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/camila-cg"> Camila Gusmão </a></p>
@@ -188,7 +188,7 @@ profiles_undergrad:
       <p> <a href="https://github.com/maduVianna"> Maria Eduarda Vianna </a></p>
       <p> ESG Q&A </p>
       
-  - image: bruna.png
+  - image: female_student.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/bluizads"> Bruna Luiza Santos </a></p>
