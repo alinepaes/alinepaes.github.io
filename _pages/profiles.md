@@ -10,7 +10,7 @@ nav_order: 4
 profiles_dsc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - image: arthurb.jpg
+  - image: arthurb.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/Allrthur"> Arthur Bittencourt  </a></p>
@@ -28,7 +28,7 @@ profiles_dsc:
       <p> <a href="https://github.com/SergioBarretoJr"> Sergio Barreto </a></p>
       <p> Self-improved Agents </p>
       
-  - image: gabriel.jpg
+  - image: gabriel.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/g-assismoraes"> Gabriel Assis </a></p>
@@ -46,13 +46,13 @@ profiles_dsc:
       <p> Juan Garcia </p>
       <p> Explainable Multilingual Post-training  </p> 
 
-  - image: danieljr.jpg
+  - image: danieljr.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/danieljunior">Daniel Silva Jr </a></p>
       <p> Handling complex questions in long texts  </p>
 
-  - image: osniel.jpg
+  - image: osniel.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/osnieltx"> Osniel Teixeira </a></p>
@@ -76,13 +76,13 @@ profiles_dsc:
   #    <p> <a href="https://github.com/LLeers"> Laura Alvarenga </a></p>
   #    <p> Misogyny Detection </p>
       
-  - image: leticia.jpg
+  - image: leticia.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/lefreire">Letícia Freire </a></p>
       <p> XAI Recommendation Systems </p>
 
-  - image: annie.jpg
+  - image: annie.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/annieamorim"> Annie Amorin </a></p>
@@ -110,7 +110,7 @@ profiles_dsc:
 profiles_msc:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - image: jguilherme.jpg
+  - image: jguilherme.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/joaoguilhermefr"> J. Guilherme Rocha  </a></p>
@@ -146,31 +146,31 @@ profiles_undergrad:
  #     <p> <a href="https://github.com/Rodcvjoao"> Rodrigo Cavalcanti </a></p>
  #     <p> LLMs for Scoring Diplomatic Essays </p>
 
-  - image: luisa.jpg
+  - image: luisa.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/luisastellet"> Luisa Stellet </a> </p>
       <p> Models for multilingual metaphor </p>
 
-  - image: amandaz.jpg
+  - image: amandaz.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/amandazirpolo"> Amanda Zirpolo </a> </p>
       <p> Multilingual automated fact-checking</p>
 
-  - image: isabella.jpg
+  - image: isabella.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://www.linkedin.com/in/isabella-leite-42a60028b/"> Isabella Leite </a></p>
       <p> ESG Reports, metaphor resources </p>
 
-  - image: isis.jpg
+  - image: isis.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/isismeira">Isis Guimarães</a></p>
       <p> ESG Topics and Datasets </p>
 
-  - image: maju.jpg
+  - image: maju.jpeg
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> <a href="https://github.com/majugaliza">M. Julia Galiza </a></p>
