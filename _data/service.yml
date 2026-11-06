@@ -350,7 +350,7 @@ examination:
   - name: UnB
     count: 1
 - type: PhD qualifying exams
-  count: 37
+  count: 38
   institutions:
   - name: UFF
     count: 16
@@ -359,7 +359,7 @@ examination:
   - name: USP
     count: 4
   - name: UnB
-    count: 2
+    count: 3
   - name: CEFET/RJ
     count: 1
   - name: PUC-Rio
