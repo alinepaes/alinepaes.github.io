@@ -4,8 +4,11 @@
 # examination: only counts and institutions (no candidate names).
 
 advisory:
+- year: '2026'
+  role: Advisory committee member for PAEP selection
+  org: CAPES — Coordination for the Improvement of Higher Education Personnel
 - year: '2025'
-  role: Advisory committee member
+  role: Advisory committee member for PAEP selection
   org: CAPES — Coordination for the Improvement of Higher Education Personnel
 - year: '2024'
   role: Judging committee, CAPES Thesis Award 2024 (Computer Science)
@@ -30,11 +33,19 @@ editorial:
 - journal: Inteligencia Artificial (Ibero-American Journal of AI)
   since: 2020
 organization:
+- year: 2028
+  items:
+  - role: General Chair
+    event: PROPOR 2028 
+- year: 2027
+  items:
+  - role: Students volunteer selection co-chair
+    event: NAACL 2027 - Nations of America Chapter of the ACL
 - year: 2026
   items:
-  - role: General chair
+  - role: PC chair
     event: 17th Symposium in Information and Human Language Technology (STIL 2026)
-  - role: Co-chair
+  - role: PC chair
     event: Best PhD/MSc Dissertation Award, PROPOR 2026
 - year: 2025
   items:
